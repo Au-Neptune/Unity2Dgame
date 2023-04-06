@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6797352691421585320
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6797352691421585318}
+  - component: {fileID: 6797352691421585319}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6797352691421585318
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6797352691421585320}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6797352691421585319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6797352691421585320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4965419f42ec6624c95f9db6851ac4c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Menu
+    clip: {fileID: 8300000, guid: 47950f43a89e3c84ead72b552a9cfb34, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Castle
+    clip: {fileID: 8300000, guid: 12d7e3db57b3f07448eeb85684ed6f5a, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Boss
+    clip: {fileID: 8300000, guid: 352b4079cdb62904a9c9c421625f003a, type: 3}
+    volume: 0.1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Ending
+    clip: {fileID: 8300000, guid: 859cf61e243e22b408347950f960388a, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: skeleton_hurt
+    clip: {fileID: 8300000, guid: 7c222c5c292c1214c9da4a5768b35b6e, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: skeleton_death
+    clip: {fileID: 8300000, guid: cc90d5782ec25534aba41eb91d3fc3d5, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: sword
+    clip: {fileID: 8300000, guid: a8425164f46b39b4bab2999fc3d5b2bd, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: player_hurt
+    clip: {fileID: 8300000, guid: 8b969e353df7bd04daa7fed54cf9e643, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: player_dead
+    clip: {fileID: 8300000, guid: 1aff0fcb0c0f77b41b5b7a23ed6f1e75, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: bow
+    clip: {fileID: 8300000, guid: db129824b7e6fd44195a99c1b57d7841, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: got_item
+    clip: {fileID: 8300000, guid: c80f1a8d335e70048a96298e8b1d6b08, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: laser
+    clip: {fileID: 8300000, guid: 6b4e09f9ae1bb8b4fb4481aadaaf3b4c, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: heal
+    clip: {fileID: 8300000, guid: 91ea6d049065b2c4a9e858a0573e8f17, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}

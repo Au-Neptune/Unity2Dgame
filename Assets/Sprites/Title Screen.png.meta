@@ -1,0 +1,1806 @@
+fileFormatVersion: 2
+guid: 3c2ccb12f4a77754da62ca1a0d896033
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8045002839287462340
+    second: Title Screen_0
+  - first:
+      213: 117766740416743565
+    second: Title Screen_1
+  - first:
+      213: 2127813190358817664
+    second: Title Screen_2
+  - first:
+      213: 7517533804708137765
+    second: Title Screen_3
+  - first:
+      213: -3653621363717492065
+    second: Title Screen_4
+  - first:
+      213: 3319113656512651522
+    second: Title Screen_5
+  - first:
+      213: -7344519931644532846
+    second: Title Screen_6
+  - first:
+      213: -710759791849359080
+    second: Title Screen_7
+  - first:
+      213: 2038092165162834412
+    second: Title Screen_8
+  - first:
+      213: -4127077011766056242
+    second: Title Screen_9
+  - first:
+      213: 2594324608274384781
+    second: Title Screen_10
+  - first:
+      213: -2911636260946034933
+    second: Title Screen_11
+  - first:
+      213: -2575293444602147210
+    second: Title Screen_12
+  - first:
+      213: -3328388132383275225
+    second: Title Screen_13
+  - first:
+      213: -2227013843100967235
+    second: Title Screen_14
+  - first:
+      213: -7112594596665702785
+    second: Title Screen_15
+  - first:
+      213: 6684012242998773103
+    second: Title Screen_16
+  - first:
+      213: 2231977185197214441
+    second: Title Screen_17
+  - first:
+      213: -2604794201727992518
+    second: Title Screen_18
+  - first:
+      213: 7950353574070922132
+    second: Title Screen_19
+  - first:
+      213: -3090262771880845090
+    second: Title Screen_20
+  - first:
+      213: -2981621471459262950
+    second: Title Screen_21
+  - first:
+      213: -7126978163843839490
+    second: Title Screen_22
+  - first:
+      213: 7586786012934615846
+    second: Title Screen_23
+  - first:
+      213: 7252917158032056582
+    second: Title Screen_24
+  - first:
+      213: 3073602203922283629
+    second: Title Screen_25
+  - first:
+      213: 1873009729159180626
+    second: Title Screen_26
+  - first:
+      213: -1068555564844971528
+    second: Title Screen_27
+  - first:
+      213: 1609878852290790524
+    second: Title Screen_28
+  - first:
+      213: 6397162505397957447
+    second: Title Screen_29
+  - first:
+      213: 3206945427453812336
+    second: Title Screen_30
+  - first:
+      213: 3551522413634778892
+    second: Title Screen_31
+  - first:
+      213: -4112209149831594023
+    second: Title Screen_32
+  - first:
+      213: -6215433204582640616
+    second: Title Screen_33
+  - first:
+      213: 4736672136288140294
+    second: Title Screen_34
+  - first:
+      213: -4619757579502990491
+    second: Title Screen_35
+  - first:
+      213: -7830105964287099565
+    second: Title Screen_36
+  - first:
+      213: 5802916474624644579
+    second: Title Screen_37
+  - first:
+      213: -6248000232170554118
+    second: Title Screen_38
+  - first:
+      213: 5344696791627056632
+    second: Title Screen_39
+  - first:
+      213: -285763515273023047
+    second: Title Screen_40
+  - first:
+      213: 1812385534212300029
+    second: Title Screen_41
+  - first:
+      213: 2075605571137028250
+    second: Title Screen_42
+  - first:
+      213: 8081102395898064605
+    second: Title Screen_43
+  - first:
+      213: -8138664340251161824
+    second: Title Screen_44
+  - first:
+      213: -2406330397245550398
+    second: Title Screen_45
+  - first:
+      213: 2352339722953538889
+    second: Title Screen_46
+  - first:
+      213: -4092459625911761201
+    second: Title Screen_47
+  - first:
+      213: -1398365435414468627
+    second: Title Screen_48
+  - first:
+      213: 2731919122238760870
+    second: Title Screen_49
+  - first:
+      213: 6313659581796217459
+    second: Title Screen_50
+  - first:
+      213: -6260783418115111663
+    second: Title Screen_51
+  - first:
+      213: -5631521377602942269
+    second: Title Screen_52
+  - first:
+      213: -6308564983251490183
+    second: Title Screen_53
+  - first:
+      213: 5477067246305118072
+    second: Title Screen_54
+  - first:
+      213: -7714509136742776805
+    second: Title Screen_55
+  - first:
+      213: 3973267788911504813
+    second: Title Screen_56
+  - first:
+      213: -7580666650319701775
+    second: Title Screen_57
+  - first:
+      213: 1089197543425563652
+    second: Title Screen_58
+  - first:
+      213: -3182196682372916835
+    second: Title Screen_59
+  - first:
+      213: -7433615365558461598
+    second: Title Screen_60
+  - first:
+      213: 6638484317325296472
+    second: Title Screen_61
+  - first:
+      213: -1364158323242557965
+    second: Title Screen_62
+  - first:
+      213: 8833330030682451400
+    second: Title Screen_63
+  - first:
+      213: -7897312533376155915
+    second: Title Screen_64
+  - first:
+      213: -1050908333316814436
+    second: Title Screen_65
+  - first:
+      213: 5121823771529803179
+    second: Title Screen_66
+  - first:
+      213: 6941121676695435403
+    second: Title Screen_67
+  - first:
+      213: -7462847999398123614
+    second: Title Screen_68
+  - first:
+      213: 1742669657715853937
+    second: Title Screen_69
+  - first:
+      213: 4759235467484129074
+    second: Title Screen_70
+  - first:
+      213: -8261886433840333508
+    second: Title Screen_71
+  - first:
+      213: -2476027253583860903
+    second: Title Screen_72
+  - first:
+      213: 7343165502468859552
+    second: Title Screen_73
+  - first:
+      213: -2321609779791360025
+    second: Title Screen_74
+  - first:
+      213: -8901067422178238155
+    second: Title Screen_75
+  - first:
+      213: 7039777556256821758
+    second: Title Screen_76
+  - first:
+      213: -4574596720983921934
+    second: Title Screen_77
+  - first:
+      213: -4953401489574491717
+    second: Title Screen_78
+  - first:
+      213: -6970993394803028828
+    second: Title Screen_79
+  - first:
+      213: -3492277636122638682
+    second: Title Screen_80
+  - first:
+      213: 4521607958370393602
+    second: Title Screen_81
+  - first:
+      213: -5777042565958174048
+    second: Title Screen_82
+  - first:
+      213: 2997346923511967711
+    second: Title Screen_83
+  - first:
+      213: -5521312517625641735
+    second: Title Screen_84
+  - first:
+      213: 7459769317278602232
+    second: Title Screen_85
+  - first:
+      213: 6329798694423372081
+    second: Title Screen_86
+  - first:
+      213: -656256351137798825
+    second: Title Screen_87
+  - first:
+      213: -2325531507500425977
+    second: Title Screen_88
+  - first:
+      213: -2563463417685609207
+    second: Title Screen_89
+  - first:
+      213: -5417192263876607551
+    second: Title Screen_90
+  - first:
+      213: 6737085159308095001
+    second: Title Screen_91
+  - first:
+      213: -8435190019229419020
+    second: Title Screen_92
+  - first:
+      213: 6375506100448052290
+    second: Title Screen_93
+  - first:
+      213: 1368352702083164025
+    second: Title Screen_94
+  - first:
+      213: 9216970941977228697
+    second: Title Screen_95
+  - first:
+      213: -8688922086523479179
+    second: Title Screen_96
+  - first:
+      213: -875603086578224441
+    second: Title Screen_97
+  - first:
+      213: -3364318106816520823
+    second: Title Screen_98
+  - first:
+      213: -2393698538592186631
+    second: Title Screen_99
+  - first:
+      213: 8102895775772275549
+    second: Title Screen_100
+  - first:
+      213: 8696146283725667162
+    second: Title Screen_101
+  - first:
+      213: -6170418497859512958
+    second: Title Screen_102
+  - first:
+      213: 4107271798312269472
+    second: Title Screen_103
+  - first:
+      213: 2558037555732794192
+    second: Title Screen_104
+  - first:
+      213: -825205099508961884
+    second: Title Screen_105
+  - first:
+      213: -6529706504298333531
+    second: Title Screen_106
+  - first:
+      213: 2747285250807258674
+    second: Title Screen_107
+  - first:
+      213: -4627879711903280422
+    second: Title Screen_108
+  - first:
+      213: -3631335275784319707
+    second: Title Screen_109
+  - first:
+      213: 9064355610801839699
+    second: Title Screen_110
+  - first:
+      213: -3789268543705326400
+    second: Title Screen_111
+  - first:
+      213: -3972938847821996524
+    second: Title Screen_112
+  - first:
+      213: 7202067879696494627
+    second: Title Screen_113
+  - first:
+      213: 8275154433074923740
+    second: Title Screen_114
+  - first:
+      213: 1081321652383609119
+    second: Title Screen_115
+  - first:
+      213: 2178278331967220090
+    second: Title Screen_116
+  - first:
+      213: -790391567227334713
+    second: Title Screen_117
+  - first:
+      213: 6549074599394818382
+    second: Title Screen_118
+  - first:
+      213: -4300285070788142636
+    second: Title Screen_119
+  - first:
+      213: 3358641020985068046
+    second: Title Screen_120
+  - first:
+      213: -2674073720177677130
+    second: Title Screen_121
+  - first:
+      213: -6850526956702998795
+    second: Title Screen_122
+  - first:
+      213: -1336893129553601675
+    second: Title Screen_123
+  - first:
+      213: 2856065173793702658
+    second: Title Screen_124
+  - first:
+      213: -6152787812244262054
+    second: Title Screen_125
+  - first:
+      213: -5480621336034647522
+    second: Title Screen_126
+  - first:
+      213: 808412978997563942
+    second: Title Screen_127
+  - first:
+      213: -4390873419006909257
+    second: Title Screen_128
+  - first:
+      213: -528786125304293639
+    second: Title Screen_129
+  - first:
+      213: 8024048681656557038
+    second: Title Screen_130
+  - first:
+      213: 8023414143954617524
+    second: Title Screen_131
+  - first:
+      213: -374677471904807614
+    second: Title Screen_132
+  - first:
+      213: -4328613761730790445
+    second: Title Screen_133
+  - first:
+      213: 6886782537454476751
+    second: Title Screen_134
+  - first:
+      213: 1142422931263044729
+    second: Title Screen_135
+  - first:
+      213: -5505370148406379581
+    second: Title Screen_136
+  - first:
+      213: -5840675328516514556
+    second: Title Screen_137
+  - first:
+      213: -6204568699771373894
+    second: Title Screen_138
+  - first:
+      213: -2393862695183006888
+    second: Title Screen_139
+  - first:
+      213: -1824282539001176982
+    second: Title Screen_140
+  - first:
+      213: 6869888257798575772
+    second: Title Screen_141
+  - first:
+      213: -8473062086853944793
+    second: Title Screen_142
+  - first:
+      213: 5339919804109365203
+    second: Title Screen_143
+  - first:
+      213: -7654286865934130094
+    second: Title Screen_144
+  - first:
+      213: 6103982692444123814
+    second: Title Screen_145
+  - first:
+      213: 4375535764450010884
+    second: Title Screen_146
+  - first:
+      213: -6375261865699529129
+    second: Title Screen_147
+  - first:
+      213: -558968901098940733
+    second: Title Screen_148
+  - first:
+      213: -8600515305957463974
+    second: Title Screen_149
+  - first:
+      213: -4240766960008474896
+    second: Title Screen_150
+  - first:
+      213: 4392376546678605359
+    second: Title Screen_151
+  - first:
+      213: 6412130224879271814
+    second: Title Screen_152
+  - first:
+      213: -6841971574497420915
+    second: Title Screen_153
+  - first:
+      213: 543556078409653377
+    second: Title Screen_154
+  - first:
+      213: 6234376071395857716
+    second: Title Screen_155
+  - first:
+      213: -2564373662551073301
+    second: Title Screen_156
+  - first:
+      213: 4783460396159380877
+    second: Title Screen_157
+  - first:
+      213: -9039252494549926845
+    second: Title Screen_158
+  - first:
+      213: -5315673186848504380
+    second: Title Screen_159
+  - first:
+      213: -5515584991361574850
+    second: Title Screen_160
+  - first:
+      213: -2455522809587480741
+    second: Title Screen_161
+  - first:
+      213: 3376895900846332491
+    second: Title Screen_162
+  - first:
+      213: 4857572711301239250
+    second: Title Screen_163
+  - first:
+      213: 4561214313247271205
+    second: Title Screen_164
+  - first:
+      213: 6483329490902732420
+    second: Title Screen_165
+  - first:
+      213: 999727348766455607
+    second: Title Screen_166
+  - first:
+      213: 2251253809371983070
+    second: Title Screen_167
+  - first:
+      213: -6362651547568880987
+    second: Title Screen_168
+  - first:
+      213: -1923643541700124369
+    second: Title Screen_169
+  - first:
+      213: -5478478921917468132
+    second: Title Screen_170
+  - first:
+      213: 7709870582380974965
+    second: Title Screen_171
+  - first:
+      213: -1650468491188449797
+    second: Title Screen_172
+  - first:
+      213: 2080335363678660972
+    second: Title Screen_173
+  - first:
+      213: -8700512179339372979
+    second: Title Screen_174
+  - first:
+      213: 3313442881450302237
+    second: Title Screen_175
+  - first:
+      213: -4949613536942182668
+    second: Title Screen_176
+  - first:
+      213: -4592488257848136983
+    second: Title Screen_177
+  - first:
+      213: -5437653413647231122
+    second: Title Screen_178
+  - first:
+      213: -5207867011675080187
+    second: Title Screen_179
+  - first:
+      213: 7781205993355682400
+    second: Title Screen_180
+  - first:
+      213: 3210653341818819341
+    second: Title Screen_181
+  - first:
+      213: -8880246179897047622
+    second: Title Screen_182
+  - first:
+      213: -7325259073560508594
+    second: Title Screen_183
+  - first:
+      213: -5420684255534968310
+    second: Title Screen_184
+  - first:
+      213: -6818184358437408058
+    second: Title Screen_185
+  - first:
+      213: -6039004357390246305
+    second: Title Screen_186
+  - first:
+      213: -4182565877431913878
+    second: Title Screen_187
+  - first:
+      213: -1262842100314145134
+    second: Title Screen_188
+  - first:
+      213: 6269542999860854275
+    second: Title Screen_189
+  - first:
+      213: -2931500062045099874
+    second: Title Screen_190
+  - first:
+      213: -5433742917734212543
+    second: Title Screen_191
+  - first:
+      213: -428343776928966263
+    second: Title Screen_192
+  - first:
+      213: -6407642658244600649
+    second: Title Screen_193
+  - first:
+      213: -6482890141262635035
+    second: Title Screen_194
+  - first:
+      213: -8403492134315602030
+    second: Title Screen_195
+  - first:
+      213: 2060716440675770270
+    second: Title Screen_196
+  - first:
+      213: 3056390891157334341
+    second: Title Screen_197
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Title Screen_22
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1613
+        width: 77
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef94f1ece13e71d90800000000000000
+      internalID: -7126978163843839490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1613
+        width: 48
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f906ae006abb21f0800000000000000
+      internalID: -1068555564844971528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1613
+        width: 50
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74c4326940775610800000000000000
+      internalID: 1609878852290790524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1613
+        width: 50
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74371b0b76947c850800000000000000
+      internalID: 6397162505397957447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_30
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1613
+        width: 52
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e927900eb518c20800000000000000
+      internalID: 3206945427453812336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_31
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1613
+        width: 52
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07f98481da894130800000000000000
+      internalID: 3551522413634778892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_32
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1613
+        width: 53
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df3d2ec09f7ee6c0800000000000000
+      internalID: -4112209149831594023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_33
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1613
+        width: 55
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8141fa36e685eb9a0800000000000000
+      internalID: -6215433204582640616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_34
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1613
+        width: 58
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cf1f4463a0cb140800000000000000
+      internalID: 4736672136288140294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_35
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1613
+        width: 59
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b4e4d35f253efb0800000000000000
+      internalID: -4619757579502990491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_36
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1613
+        width: 60
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dfff47c10e55390800000000000000
+      internalID: -7830105964287099565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_37
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1613
+        width: 61
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5934bd9c9188050800000000000000
+      internalID: 5802916474624644579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_38
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1614
+        width: 63
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc7ae464e4aa49a0800000000000000
+      internalID: -6248000232170554118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_39
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1613
+        width: 65
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5c9112a6d2c2a40800000000000000
+      internalID: 5344696791627056632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_40
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1613
+        width: 64
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1726ec893c80cf0800000000000000
+      internalID: -285763515273023047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_41
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1613
+        width: 68
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcd7ca7a03e62910800000000000000
+      internalID: 1812385534212300029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_43
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1613
+        width: 65
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeef0540d7d52070800000000000000
+      internalID: 8081102395898064605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_44
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1613
+        width: 69
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bc03d27e7ad0f80800000000000000
+      internalID: -8138664340251161824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_45
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1613
+        width: 69
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c054f3c04ffa9ed0800000000000000
+      internalID: -2406330397245550398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_46
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1613
+        width: 69
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dbfa9c38035a020800000000000000
+      internalID: 2352339722953538889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_47
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1613
+        width: 67
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6c6eb27a9a437c0800000000000000
+      internalID: -4092459625911761201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_48
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1613
+        width: 74
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7afeb9b02089ce0800000000000000
+      internalID: -1398365435414468627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_49
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1613
+        width: 73
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a76324a7f9b9e520800000000000000
+      internalID: 2731919122238760870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_50
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1613
+        width: 74
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37274bd30ff9e9750800000000000000
+      internalID: 6313659581796217459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1473
+        width: 75
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115c79bf6aa3d19a0800000000000000
+      internalID: -6260783418115111663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_52
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1473
+        width: 76
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca45f6e421d8d1b0800000000000000
+      internalID: -5631521377602942269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_53
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1473
+        width: 70
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aa3da62997378a0800000000000000
+      internalID: -6308564983251490183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_54
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1473
+        width: 67
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87781fa44a3720c40800000000000000
+      internalID: 5477067246305118072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_56
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1473
+        width: 64
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad6293b002e32730800000000000000
+      internalID: 3973267788911504813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_57
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1473
+        width: 63
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f83b0b78df0cc690800000000000000
+      internalID: -7580666650319701775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_58
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1473
+        width: 60
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cdb1a156b9d1f00800000000000000
+      internalID: 1089197543425563652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_59
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1473
+        width: 63
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d995cb53af096d3d0800000000000000
+      internalID: -3182196682372916835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_60
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1473
+        width: 64
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b9003c53e76d890800000000000000
+      internalID: -7433615365558461598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_61
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1473
+        width: 61
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8530d2d7052a02c50800000000000000
+      internalID: 6638484317325296472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_62
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1472
+        width: 62
+        height: 140
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd1cbd8b39811de0800000000000000
+      internalID: -1364158323242557965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_63
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1473
+        width: 52
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd2e96acda469a70800000000000000
+      internalID: 8833330030682451400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_64
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1473
+        width: 51
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5febfd7b71c176290800000000000000
+      internalID: -7897312533376155915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_65
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1473
+        width: 50
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c994725507c6a61f0800000000000000
+      internalID: -1050908333316814436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_66
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1473
+        width: 47
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba57f28659f541740800000000000000
+      internalID: 5121823771529803179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_67
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1473
+        width: 46
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88f13aa361d35060800000000000000
+      internalID: 6941121676695435403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_68
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1473
+        width: 46
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7e32fc843ae6890800000000000000
+      internalID: -7462847999398123614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_69
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1473
+        width: 47
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a410512d43f2810800000000000000
+      internalID: 1742669657715853937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_70
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1473
+        width: 50
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237e4d131733c0240800000000000000
+      internalID: 4759235467484129074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_71
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1473
+        width: 51
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3df350df02e75d80800000000000000
+      internalID: -8261886433840333508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_72
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1473
+        width: 51
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ba2f7d45263add0800000000000000
+      internalID: -2476027253583860903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_73
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1473
+        width: 50
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a62f856e1a28e560800000000000000
+      internalID: 7343165502468859552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_74
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1473
+        width: 49
+        height: 139
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef8678a43cf7cfd0800000000000000
+      internalID: -2321609779791360025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_75
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1471
+        width: 51
+        height: 141
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531a343e65e097480800000000000000
+      internalID: -8901067422178238155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 562
+        width: 638
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa261ff484c380c0800000000000000
+      internalID: -4574596720983921934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1027
+        width: 415
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb98508e69bf14bb0800000000000000
+      internalID: -4953401489574491717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1277
+        width: 642
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4accb2bf07e024f90800000000000000
+      internalID: -6970993394803028828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Screen_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 479
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a68ed92effe88fc0800000000000000
+      internalID: -3492277636122638682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

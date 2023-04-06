@@ -1,0 +1,4128 @@
+fileFormatVersion: 2
+guid: e054b76ac8a893542be07cf6bc0e19a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 389233826117423211
+    second: PC Computer - Lost Ruins - Weapons_0
+  - first:
+      213: -1019923149820473306
+    second: PC Computer - Lost Ruins - Weapons_1
+  - first:
+      213: -2922707632314923613
+    second: PC Computer - Lost Ruins - Weapons_2
+  - first:
+      213: 7797695802213203261
+    second: PC Computer - Lost Ruins - Weapons_3
+  - first:
+      213: -7854078502702985828
+    second: PC Computer - Lost Ruins - Weapons_4
+  - first:
+      213: 6458739823597816881
+    second: PC Computer - Lost Ruins - Weapons_5
+  - first:
+      213: 833156060176398524
+    second: PC Computer - Lost Ruins - Weapons_6
+  - first:
+      213: 2718051623095452811
+    second: PC Computer - Lost Ruins - Weapons_7
+  - first:
+      213: 6414556739725031047
+    second: PC Computer - Lost Ruins - Weapons_8
+  - first:
+      213: 3180977044705845711
+    second: PC Computer - Lost Ruins - Weapons_9
+  - first:
+      213: -2690956584913880357
+    second: PC Computer - Lost Ruins - Weapons_10
+  - first:
+      213: -1968353668250756452
+    second: PC Computer - Lost Ruins - Weapons_11
+  - first:
+      213: -4646917304263286917
+    second: PC Computer - Lost Ruins - Weapons_12
+  - first:
+      213: -7753648481536477647
+    second: PC Computer - Lost Ruins - Weapons_13
+  - first:
+      213: -3116483459181127742
+    second: PC Computer - Lost Ruins - Weapons_14
+  - first:
+      213: -732140754609078880
+    second: PC Computer - Lost Ruins - Weapons_15
+  - first:
+      213: -3403148155180061250
+    second: PC Computer - Lost Ruins - Weapons_16
+  - first:
+      213: 7419397366199040739
+    second: PC Computer - Lost Ruins - Weapons_17
+  - first:
+      213: -7815613813202681970
+    second: PC Computer - Lost Ruins - Weapons_18
+  - first:
+      213: -4059234003349242829
+    second: PC Computer - Lost Ruins - Weapons_19
+  - first:
+      213: 1908927387450713672
+    second: PC Computer - Lost Ruins - Weapons_20
+  - first:
+      213: 735137822621308060
+    second: PC Computer - Lost Ruins - Weapons_21
+  - first:
+      213: 5051490029375213302
+    second: PC Computer - Lost Ruins - Weapons_22
+  - first:
+      213: 7614713377269334964
+    second: PC Computer - Lost Ruins - Weapons_23
+  - first:
+      213: 3340681845619571954
+    second: PC Computer - Lost Ruins - Weapons_24
+  - first:
+      213: 8859699828379682990
+    second: PC Computer - Lost Ruins - Weapons_25
+  - first:
+      213: -6882953805585230758
+    second: PC Computer - Lost Ruins - Weapons_26
+  - first:
+      213: -2247583890811097844
+    second: PC Computer - Lost Ruins - Weapons_27
+  - first:
+      213: -1949410815689752599
+    second: PC Computer - Lost Ruins - Weapons_28
+  - first:
+      213: 7132010719362306748
+    second: PC Computer - Lost Ruins - Weapons_29
+  - first:
+      213: -5392132200518035793
+    second: PC Computer - Lost Ruins - Weapons_30
+  - first:
+      213: 4756123958288692179
+    second: PC Computer - Lost Ruins - Weapons_31
+  - first:
+      213: -8379303893144907908
+    second: PC Computer - Lost Ruins - Weapons_32
+  - first:
+      213: 302131279644438050
+    second: PC Computer - Lost Ruins - Weapons_33
+  - first:
+      213: -5202713490544932361
+    second: PC Computer - Lost Ruins - Weapons_34
+  - first:
+      213: 8505766599120361592
+    second: PC Computer - Lost Ruins - Weapons_35
+  - first:
+      213: 4822102343340257481
+    second: PC Computer - Lost Ruins - Weapons_36
+  - first:
+      213: -1617584649437216161
+    second: PC Computer - Lost Ruins - Weapons_37
+  - first:
+      213: 8610427209201607895
+    second: PC Computer - Lost Ruins - Weapons_38
+  - first:
+      213: 7552723635755210230
+    second: PC Computer - Lost Ruins - Weapons_39
+  - first:
+      213: -2528716958564517718
+    second: PC Computer - Lost Ruins - Weapons_40
+  - first:
+      213: 165348938737302579
+    second: PC Computer - Lost Ruins - Weapons_41
+  - first:
+      213: 4245854890251079120
+    second: PC Computer - Lost Ruins - Weapons_42
+  - first:
+      213: 5725696391956460182
+    second: PC Computer - Lost Ruins - Weapons_43
+  - first:
+      213: -3385005189378451995
+    second: PC Computer - Lost Ruins - Weapons_44
+  - first:
+      213: 641565120814069390
+    second: PC Computer - Lost Ruins - Weapons_45
+  - first:
+      213: 3494351756841677
+    second: PC Computer - Lost Ruins - Weapons_46
+  - first:
+      213: -6239642113746282260
+    second: PC Computer - Lost Ruins - Weapons_47
+  - first:
+      213: 5337758085028562054
+    second: PC Computer - Lost Ruins - Weapons_48
+  - first:
+      213: -6006040711587075125
+    second: PC Computer - Lost Ruins - Weapons_49
+  - first:
+      213: -8366610207720356134
+    second: PC Computer - Lost Ruins - Weapons_50
+  - first:
+      213: -4592343569132279919
+    second: PC Computer - Lost Ruins - Weapons_51
+  - first:
+      213: 765063230607982061
+    second: PC Computer - Lost Ruins - Weapons_52
+  - first:
+      213: 6955413497259775370
+    second: PC Computer - Lost Ruins - Weapons_53
+  - first:
+      213: 4643214805030348044
+    second: PC Computer - Lost Ruins - Weapons_54
+  - first:
+      213: -184916471270082202
+    second: PC Computer - Lost Ruins - Weapons_55
+  - first:
+      213: 6689876931608899701
+    second: PC Computer - Lost Ruins - Weapons_56
+  - first:
+      213: -2278752404744227054
+    second: PC Computer - Lost Ruins - Weapons_57
+  - first:
+      213: 172618417234320539
+    second: PC Computer - Lost Ruins - Weapons_58
+  - first:
+      213: -6857753405638169552
+    second: PC Computer - Lost Ruins - Weapons_59
+  - first:
+      213: -2618509559225052680
+    second: PC Computer - Lost Ruins - Weapons_60
+  - first:
+      213: -4290822656648210413
+    second: PC Computer - Lost Ruins - Weapons_61
+  - first:
+      213: 5743576241580600761
+    second: PC Computer - Lost Ruins - Weapons_62
+  - first:
+      213: 8718528077298984355
+    second: PC Computer - Lost Ruins - Weapons_63
+  - first:
+      213: 2562357316551246970
+    second: PC Computer - Lost Ruins - Weapons_64
+  - first:
+      213: -3675761964394093923
+    second: PC Computer - Lost Ruins - Weapons_65
+  - first:
+      213: 4155522746942690772
+    second: PC Computer - Lost Ruins - Weapons_66
+  - first:
+      213: -6663934004159098542
+    second: PC Computer - Lost Ruins - Weapons_67
+  - first:
+      213: -3368624100605320220
+    second: PC Computer - Lost Ruins - Weapons_68
+  - first:
+      213: 2784995899451893907
+    second: PC Computer - Lost Ruins - Weapons_69
+  - first:
+      213: 6245479481743491480
+    second: PC Computer - Lost Ruins - Weapons_70
+  - first:
+      213: -6057001932124254068
+    second: PC Computer - Lost Ruins - Weapons_71
+  - first:
+      213: -5321025955532070121
+    second: PC Computer - Lost Ruins - Weapons_72
+  - first:
+      213: 957726907822873710
+    second: PC Computer - Lost Ruins - Weapons_73
+  - first:
+      213: 5490462336064170331
+    second: PC Computer - Lost Ruins - Weapons_74
+  - first:
+      213: 6866778995358028398
+    second: PC Computer - Lost Ruins - Weapons_75
+  - first:
+      213: 2699477889179462027
+    second: PC Computer - Lost Ruins - Weapons_76
+  - first:
+      213: -4475783355214574392
+    second: PC Computer - Lost Ruins - Weapons_77
+  - first:
+      213: 5607207823676074819
+    second: PC Computer - Lost Ruins - Weapons_78
+  - first:
+      213: 3160031768620491947
+    second: PC Computer - Lost Ruins - Weapons_79
+  - first:
+      213: -794990209242144169
+    second: PC Computer - Lost Ruins - Weapons_80
+  - first:
+      213: -4975252685278955207
+    second: PC Computer - Lost Ruins - Weapons_81
+  - first:
+      213: -4233269140750039760
+    second: PC Computer - Lost Ruins - Weapons_82
+  - first:
+      213: -6236739325991953303
+    second: PC Computer - Lost Ruins - Weapons_83
+  - first:
+      213: -4738665283380699059
+    second: PC Computer - Lost Ruins - Weapons_84
+  - first:
+      213: -1105632995322096661
+    second: PC Computer - Lost Ruins - Weapons_85
+  - first:
+      213: 9010149351840661475
+    second: PC Computer - Lost Ruins - Weapons_86
+  - first:
+      213: -5096290657833911196
+    second: PC Computer - Lost Ruins - Weapons_87
+  - first:
+      213: 1524952399932548598
+    second: PC Computer - Lost Ruins - Weapons_88
+  - first:
+      213: -2906389240823134981
+    second: PC Computer - Lost Ruins - Weapons_89
+  - first:
+      213: 151175848956897834
+    second: PC Computer - Lost Ruins - Weapons_90
+  - first:
+      213: 1611938889972652969
+    second: PC Computer - Lost Ruins - Weapons_91
+  - first:
+      213: 4057007085785358766
+    second: PC Computer - Lost Ruins - Weapons_92
+  - first:
+      213: 4213909970616099387
+    second: PC Computer - Lost Ruins - Weapons_93
+  - first:
+      213: 3519562659526183634
+    second: PC Computer - Lost Ruins - Weapons_94
+  - first:
+      213: -761900372670013739
+    second: PC Computer - Lost Ruins - Weapons_95
+  - first:
+      213: -1959053513074277807
+    second: PC Computer - Lost Ruins - Weapons_96
+  - first:
+      213: -1596074988571447141
+    second: PC Computer - Lost Ruins - Weapons_97
+  - first:
+      213: 3291029775972757325
+    second: PC Computer - Lost Ruins - Weapons_98
+  - first:
+      213: -5651297441662800079
+    second: PC Computer - Lost Ruins - Weapons_99
+  - first:
+      213: -8107311592465972997
+    second: PC Computer - Lost Ruins - Weapons_100
+  - first:
+      213: -4841041243385803738
+    second: PC Computer - Lost Ruins - Weapons_101
+  - first:
+      213: 4491488109427110345
+    second: PC Computer - Lost Ruins - Weapons_102
+  - first:
+      213: 6022660707906715627
+    second: PC Computer - Lost Ruins - Weapons_103
+  - first:
+      213: -2139889181199687864
+    second: PC Computer - Lost Ruins - Weapons_104
+  - first:
+      213: 3045518581801507558
+    second: PC Computer - Lost Ruins - Weapons_105
+  - first:
+      213: -4900438097908027153
+    second: PC Computer - Lost Ruins - Weapons_106
+  - first:
+      213: -4843949888687543382
+    second: PC Computer - Lost Ruins - Weapons_107
+  - first:
+      213: -7938944037527034534
+    second: PC Computer - Lost Ruins - Weapons_108
+  - first:
+      213: -8024377838972174924
+    second: PC Computer - Lost Ruins - Weapons_109
+  - first:
+      213: 931282193114123768
+    second: PC Computer - Lost Ruins - Weapons_110
+  - first:
+      213: 7012379878183456698
+    second: PC Computer - Lost Ruins - Weapons_111
+  - first:
+      213: -5593951502209340117
+    second: PC Computer - Lost Ruins - Weapons_112
+  - first:
+      213: -3708094405653334373
+    second: PC Computer - Lost Ruins - Weapons_113
+  - first:
+      213: -2150729467712804066
+    second: PC Computer - Lost Ruins - Weapons_114
+  - first:
+      213: -972585226945348812
+    second: PC Computer - Lost Ruins - Weapons_115
+  - first:
+      213: -4668021058693719142
+    second: PC Computer - Lost Ruins - Weapons_116
+  - first:
+      213: -6220831923663330987
+    second: PC Computer - Lost Ruins - Weapons_117
+  - first:
+      213: -6505139589092997905
+    second: PC Computer - Lost Ruins - Weapons_118
+  - first:
+      213: 364645681066155060
+    second: PC Computer - Lost Ruins - Weapons_119
+  - first:
+      213: -5233141623091786655
+    second: PC Computer - Lost Ruins - Weapons_120
+  - first:
+      213: -7374361729908051137
+    second: PC Computer - Lost Ruins - Weapons_121
+  - first:
+      213: 5060653372421843703
+    second: PC Computer - Lost Ruins - Weapons_122
+  - first:
+      213: -732184006393816618
+    second: PC Computer - Lost Ruins - Weapons_123
+  - first:
+      213: 3200231465925188160
+    second: PC Computer - Lost Ruins - Weapons_124
+  - first:
+      213: 6243299238412571085
+    second: PC Computer - Lost Ruins - Weapons_125
+  - first:
+      213: 5619296818667394584
+    second: PC Computer - Lost Ruins - Weapons_126
+  - first:
+      213: -2758078418841262680
+    second: PC Computer - Lost Ruins - Weapons_127
+  - first:
+      213: -4772897967548669058
+    second: PC Computer - Lost Ruins - Weapons_128
+  - first:
+      213: -7706353556515823495
+    second: PC Computer - Lost Ruins - Weapons_129
+  - first:
+      213: 4760286016876091462
+    second: PC Computer - Lost Ruins - Weapons_130
+  - first:
+      213: 2276572320727172127
+    second: PC Computer - Lost Ruins - Weapons_131
+  - first:
+      213: 2497487551296772497
+    second: PC Computer - Lost Ruins - Weapons_132
+  - first:
+      213: 3578441626610718596
+    second: PC Computer - Lost Ruins - Weapons_133
+  - first:
+      213: 4847316212808405511
+    second: PC Computer - Lost Ruins - Weapons_134
+  - first:
+      213: 1154677881828773507
+    second: PC Computer - Lost Ruins - Weapons_135
+  - first:
+      213: 8475526570752512411
+    second: PC Computer - Lost Ruins - Weapons_136
+  - first:
+      213: 515473692492507375
+    second: PC Computer - Lost Ruins - Weapons_137
+  - first:
+      213: 7753262540380860395
+    second: PC Computer - Lost Ruins - Weapons_138
+  - first:
+      213: 3758372904583952727
+    second: PC Computer - Lost Ruins - Weapons_139
+  - first:
+      213: 5500138915281335496
+    second: PC Computer - Lost Ruins - Weapons_140
+  - first:
+      213: 4369687528407944407
+    second: PC Computer - Lost Ruins - Weapons_141
+  - first:
+      213: 4798845726258446322
+    second: PC Computer - Lost Ruins - Weapons_142
+  - first:
+      213: 2356930820061574164
+    second: PC Computer - Lost Ruins - Weapons_143
+  - first:
+      213: -224191130155682390
+    second: PC Computer - Lost Ruins - Weapons_144
+  - first:
+      213: -4286035432846883314
+    second: PC Computer - Lost Ruins - Weapons_145
+  - first:
+      213: -5608435909757500058
+    second: PC Computer - Lost Ruins - Weapons_146
+  - first:
+      213: 8262480483945384827
+    second: PC Computer - Lost Ruins - Weapons_147
+  - first:
+      213: 2301966543924934217
+    second: PC Computer - Lost Ruins - Weapons_148
+  - first:
+      213: -9193209056446122084
+    second: PC Computer - Lost Ruins - Weapons_149
+  - first:
+      213: -5445185560131057770
+    second: PC Computer - Lost Ruins - Weapons_150
+  - first:
+      213: -3834535098311906348
+    second: PC Computer - Lost Ruins - Weapons_151
+  - first:
+      213: -3205071124302934730
+    second: PC Computer - Lost Ruins - Weapons_152
+  - first:
+      213: 62414281397722939
+    second: PC Computer - Lost Ruins - Weapons_153
+  - first:
+      213: -7707429418373502329
+    second: PC Computer - Lost Ruins - Weapons_154
+  - first:
+      213: -4610448919316352406
+    second: PC Computer - Lost Ruins - Weapons_155
+  - first:
+      213: 6414038151820201632
+    second: PC Computer - Lost Ruins - Weapons_156
+  - first:
+      213: 7274905128956911050
+    second: PC Computer - Lost Ruins - Weapons_157
+  - first:
+      213: 5396897039316383258
+    second: PC Computer - Lost Ruins - Weapons_158
+  - first:
+      213: -7975827366283187984
+    second: PC Computer - Lost Ruins - Weapons_159
+  - first:
+      213: -4764044183368898099
+    second: PC Computer - Lost Ruins - Weapons_160
+  - first:
+      213: -5886192319748396670
+    second: PC Computer - Lost Ruins - Weapons_161
+  - first:
+      213: -5525835207595115262
+    second: PC Computer - Lost Ruins - Weapons_162
+  - first:
+      213: -1913496365150994794
+    second: PC Computer - Lost Ruins - Weapons_163
+  - first:
+      213: -6739085430568473586
+    second: PC Computer - Lost Ruins - Weapons_164
+  - first:
+      213: -2507551049718129311
+    second: PC Computer - Lost Ruins - Weapons_165
+  - first:
+      213: 7621763547722524549
+    second: PC Computer - Lost Ruins - Weapons_166
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 865
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b609b444a16d66500800000000000000
+      internalID: 389233826117423211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 838
+        width: 4
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620d0cc8c4188d1f0800000000000000
+      internalID: -1019923149820473306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 839
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5cb81c4e47077d0800000000000000
+      internalID: -2922707632314923613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 839
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3df875a40bf63c60800000000000000
+      internalID: 7797695802213203261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 835
+        width: 4
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d4b58e635b00390800000000000000
+      internalID: -7854078502702985828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 839
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c873256ad02a950800000000000000
+      internalID: 6458739823597816881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 839
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb83741c507ff8b00800000000000000
+      internalID: 833156060176398524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 837
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8447c3ec8578b520800000000000000
+      internalID: 2718051623095452811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 812
+        width: 61
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786f5e67e55150950800000000000000
+      internalID: 6414556739725031047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 762
+        width: 10
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc12d54c4c9152c20800000000000000
+      internalID: 3180977044705845711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 766
+        width: 6
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdab53a4e3dc7aad0800000000000000
+      internalID: -2690956584913880357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 766
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a939b74c00fa4e0800000000000000
+      internalID: -1968353668250756452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 774
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f55ca0555d28fb0800000000000000
+      internalID: -4646917304263286917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 765
+        width: 8
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13675c069c1856490800000000000000
+      internalID: -7753648481536477647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 767
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7d0234ec600c4d0800000000000000
+      internalID: -3116483459181127742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 782
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad70fbdcd9e6d5f0800000000000000
+      internalID: -732140754609078880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 774
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd677498c695c0d0800000000000000
+      internalID: -3403148155180061250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 770
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea33cb489ef6f660800000000000000
+      internalID: 7419397366199040739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 774
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ffa6255ac598390800000000000000
+      internalID: -7815613813202681970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 772
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c7e224e24baa7c0800000000000000
+      internalID: -4059234003349242829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_20
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 761
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846a30f485fdd7a10800000000000000
+      internalID: 1908927387450713672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 739
+        width: 61
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c941c4a64fbb33a00800000000000000
+      internalID: 735137822621308060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 681
+        width: 6
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe4653fa6f7a1640800000000000000
+      internalID: 5051490029375213302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_23
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 679
+        width: 14
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3cd8ed875eca960800000000000000
+      internalID: 7614713377269334964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 679
+        width: 14
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc30cb507c7c5e20800000000000000
+      internalID: 3340681845619571954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 686
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8092f9d0af3fa70800000000000000
+      internalID: 8859699828379682990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 687
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a545ba43bf5da70a0800000000000000
+      internalID: -6882953805585230758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 685
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d60590c5afec0e0800000000000000
+      internalID: -2247583890811097844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 684
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eff189013d42f4e0800000000000000
+      internalID: -1949410815689752599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_29
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 674
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb25ed556fdf9f260800000000000000
+      internalID: 7132010719362306748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_30
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 674
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa65d26155c4b25b0800000000000000
+      internalID: -5392132200518035793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 672
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3b5818a85210240800000000000000
+      internalID: 4756123958288692179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 675
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fcc00318bb6bb80800000000000000
+      internalID: -8379303893144907908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 655
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22eadbe4cc2613400800000000000000
+      internalID: 302131279644438050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 634
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9cfef35af3cc7b0800000000000000
+      internalID: -5202713490544932361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_35
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 627
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87893fa08ad8a0670800000000000000
+      internalID: 8505766599120361592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_36
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 632
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0ff5d588c8be240800000000000000
+      internalID: 4822102343340257481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_37
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 626
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f528b28e45f2d89e0800000000000000
+      internalID: -1617584649437216161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_38
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 631
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4e1d04de16e7770800000000000000
+      internalID: 8610427209201607895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_39
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 623
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5d2e3712aa0d860800000000000000
+      internalID: 7552723635755210230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_40
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 629
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8714be25138ecd0800000000000000
+      internalID: -2528716958564517718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_41
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 622
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cbc65dbff6b4200800000000000000
+      internalID: 165348938737302579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd4545f68e4cea30800000000000000
+      internalID: 4245854890251079120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_43
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 572
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692fc4e4882c57f40800000000000000
+      internalID: 5725696391956460182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e55e3cf6bb0601d0800000000000000
+      internalID: -3385005189378451995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 533
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e863766041c47e800800000000000000
+      internalID: 641565120814069390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_46
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 535
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2df2b281a6c0000800000000000000
+      internalID: 3494351756841677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_47
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 536
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8d59c7e865869a0800000000000000
+      internalID: -6239642113746282260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_48
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 535
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684c81b92b6831a40800000000000000
+      internalID: 5337758085028562054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_49
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 531
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb615f4bc146aca0800000000000000
+      internalID: -6006040711587075125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 539
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6cba22854d3eb80800000000000000
+      internalID: -8366610207720356134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 539
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197225bead7b440c0800000000000000
+      internalID: -4592343569132279919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_52
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 539
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedf91b64fc0e9a00800000000000000
+      internalID: 765063230607982061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_53
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 532
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85502279b7968060800000000000000
+      internalID: 6955413497259775370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_54
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 530
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c052bada343007040800000000000000
+      internalID: 4643214805030348044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669f3d8f27b0f6df0800000000000000
+      internalID: -184916471270082202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_56
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 515
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570f0a3ff9737dc50800000000000000
+      internalID: 6689876931608899701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_57
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 515
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2173720e2ce3060e0800000000000000
+      internalID: -2278752404744227054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_58
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 472
+        width: 5
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c11f03983456200800000000000000
+      internalID: 172618417234320539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_59
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 478
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c26bb8c9d54d0a0800000000000000
+      internalID: -6857753405638169552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_60
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 478
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f11d69ed6f29abd0800000000000000
+      internalID: -2618509559225052680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 473
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318194c078fe374c0800000000000000
+      internalID: -4290822656648210413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_62
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 472
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bde8c3392845bf40800000000000000
+      internalID: 5743576241580600761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_63
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 475
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5eca3f71f6ef870800000000000000
+      internalID: 8718528077298984355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_64
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 478
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7409a847625f8320800000000000000
+      internalID: 2562357316551246970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_65
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 473
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92e569e7f11dfcc0800000000000000
+      internalID: -3675761964394093923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_66
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 472
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d51393ebe16ba930800000000000000
+      internalID: 4155522746942690772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_67
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 472
+        width: 5
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251537b8453f483a0800000000000000
+      internalID: -6663934004159098542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_68
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 472
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3a99d6a3e3041d0800000000000000
+      internalID: -3368624100605320220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_69
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 472
+        width: 5
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398efb7d30b46a620800000000000000
+      internalID: 2784995899451893907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_70
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 428
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891cf49af766ca650800000000000000
+      internalID: 6245479481743491480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_71
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 434
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8011e785d431fba0800000000000000
+      internalID: -6057001932124254068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_72
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 434
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713a0efd51be726b0800000000000000
+      internalID: -5321025955532070121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_73
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 429
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c9d946c878a4d00800000000000000
+      internalID: 957726907822873710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_74
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 428
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5924c9a76a023c40800000000000000
+      internalID: 5490462336064170331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_75
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 431
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62dd615d13bb4f50800000000000000
+      internalID: 6866778995358028398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_76
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 434
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89209776d8767520800000000000000
+      internalID: 2699477889179462027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_77
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 429
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc44dc80c2d2e1c0800000000000000
+      internalID: -4475783355214574392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_78
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 428
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34be000becdc0dd40800000000000000
+      internalID: 5607207823676074819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_79
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 428
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4e297a620badb20800000000000000
+      internalID: 3160031768620491947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_80
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 428
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7526532ed90a7f4f0800000000000000
+      internalID: -794990209242144169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_81
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 428
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939b322fa0a54fab0800000000000000
+      internalID: -4975252685278955207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_82
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 371
+        width: 11
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03588f235286045c0800000000000000
+      internalID: -4233269140750039760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_83
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 377
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c5a8d60a6a279a0800000000000000
+      internalID: -6236739325991953303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_84
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 377
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d402e920801ec3eb0800000000000000
+      internalID: -4738665283380699059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_85
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 371
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be310ed06a008a0f0800000000000000
+      internalID: -1105632995322096661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_86
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 371
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efbda1091b7a0d70800000000000000
+      internalID: 9010149351840661475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_87
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 375
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cfaa3e5a65649b0800000000000000
+      internalID: -5096290657833911196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_88
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 377
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5eb51d028b92510800000000000000
+      internalID: 1524952399932548598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_89
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 372
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf448b9526e6aa7d0800000000000000
+      internalID: -2906389240823134981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_90
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 372
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2aa1b732a5191200800000000000000
+      internalID: 151175848956897834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_91
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 372
+        width: 11
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab157841e1ce5610800000000000000
+      internalID: 1611938889972652969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_92
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 372
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1aa7713726d4830800000000000000
+      internalID: 4057007085785358766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_93
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 372
+        width: 11
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32ac02cac0da7a30800000000000000
+      internalID: 4213909970616099387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_94
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 363
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da89c5679ff7d030800000000000000
+      internalID: 3519562659526183634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_95
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 346
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de14c4d5af2d65f0800000000000000
+      internalID: -761900372670013739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_96
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 302
+        width: 5
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1520a39953b00d4e0800000000000000
+      internalID: -1959053513074277807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_97
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 308
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b903057114a99d9e0800000000000000
+      internalID: -1596074988571447141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_98
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 308
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fe61605261cad20800000000000000
+      internalID: 3291029775972757325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_99
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 303
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f6d9d2bee8291b0800000000000000
+      internalID: -5651297441662800079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_100
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 302
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0c8af9f0b0d7f80800000000000000
+      internalID: -8107311592465972997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_101
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 305
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c49f853aa21dcb0800000000000000
+      internalID: -4841041243385803738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_102
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 308
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c13b4b73a8f45e30800000000000000
+      internalID: 4491488109427110345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_103
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 303
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef7b71210ac49350800000000000000
+      internalID: 6022660707906715627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_104
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 302
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f14e790269d42e0800000000000000
+      internalID: -2139889181199687864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_105
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 302
+        width: 5
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea5129a30bd34a20800000000000000
+      internalID: 3045518581801507558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_106
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 302
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0b66a73852efbb0800000000000000
+      internalID: -4900438097908027153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_107
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 302
+        width: 5
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab6cf69d35d6ccb0800000000000000
+      internalID: -4843949888687543382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_108
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 289
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55ee7fc57433d190800000000000000
+      internalID: -7938944037527034534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdfb84dedea3a090800000000000000
+      internalID: -8024377838972174924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_110
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 270
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdc63278349cec00800000000000000
+      internalID: 931282193114123768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_111
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 270
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfc835985af05160800000000000000
+      internalID: 7012379878183456698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_112
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 270
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dac0c2fba4e52b0800000000000000
+      internalID: -5593951502209340117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_113
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 254
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b967b6dc8c33a8cc0800000000000000
+      internalID: -3708094405653334373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_114
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 252
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b6305b1f21722e0800000000000000
+      internalID: -2150729467712804066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_115
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 257
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b312a93eea082f0800000000000000
+      internalID: -972585226945348812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b9480549bd73fb0800000000000000
+      internalID: -4668021058693719142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_117
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 239
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55123a6235a2ba9a0800000000000000
+      internalID: -6220831923663330987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_118
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 209
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe408c9620a19b5a0800000000000000
+      internalID: -6505139589092997905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c14d0a05b7f0500800000000000000
+      internalID: 364645681066155060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 151
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c8d409b652067b0800000000000000
+      internalID: -5233141623091786655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_121
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 151
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f337893e31109a990800000000000000
+      internalID: -7374361729908051137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_122
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 151
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa26920e6d0b3640800000000000000
+      internalID: 5060653372421843703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_123
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 151
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d99ca48682c6d5f0800000000000000
+      internalID: -732184006393816618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_124
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 151
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a9f7d0091896c20800000000000000
+      internalID: 3200231465925188160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_125
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 151
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc15c043497a4a650800000000000000
+      internalID: 6243299238412571085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_126
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 151
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816172c2fa0cbfd40800000000000000
+      internalID: 5619296818667394584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_127
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 151
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5ab4e7a4659b9d0800000000000000
+      internalID: -2758078418841262680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_128
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 151
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73e31f169243cdb0800000000000000
+      internalID: -4772897967548669058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_129
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 151
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9706e4635488d0590800000000000000
+      internalID: -7706353556515823495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_130
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 151
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648982949eeef0240800000000000000
+      internalID: 4760286016876091462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_131
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 151
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f140e62c672089f10800000000000000
+      internalID: 2276572320727172127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_132
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 151
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199110612bbd8a220800000000000000
+      internalID: 2497487551296772497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_133
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 151
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4875a9333bd29a130800000000000000
+      internalID: 3578441626610718596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_134
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 151
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702df62d960254340800000000000000
+      internalID: 4847316212808405511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_135
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 151
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e87607a6d360010800000000000000
+      internalID: 1154677881828773507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_136
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 151
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b919616c28e1f9570800000000000000
+      internalID: 8475526570752512411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_137
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 151
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8231c9794572700800000000000000
+      internalID: 515473692492507375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_138
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 151
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef6eb1b33f199b60800000000000000
+      internalID: 7753262540380860395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_139
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 151
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759fd277e3c682430800000000000000
+      internalID: 3758372904583952727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_140
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 151
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c475a4d33b645c40800000000000000
+      internalID: 5500138915281335496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_141
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 151
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcc53ec7af34ac30800000000000000
+      internalID: 4369687528407944407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_142
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 151
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff398d33cce89240800000000000000
+      internalID: 4798845726258446322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_143
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 151
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414b0f1e71085b020800000000000000
+      internalID: 2356930820061574164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5f64dda5383ecf0800000000000000
+      internalID: -224191130155682390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_145
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 98
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e068c627b71f484c0800000000000000
+      internalID: -4286035432846883314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_146
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 98
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6650c5d3145da22b0800000000000000
+      internalID: -5608435909757500058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_147
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 98
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b8921493a3aa270800000000000000
+      internalID: 8262480483945384827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_148
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 98
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946ba77106a32ff10800000000000000
+      internalID: 2301966543924934217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_149
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 98
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97ff9422192b6080800000000000000
+      internalID: -9193209056446122084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_150
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 98
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6974d483590de64b0800000000000000
+      internalID: -5445185560131057770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_151
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 98
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbe952f4aef8cac0800000000000000
+      internalID: -3834535098311906348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_152
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 98
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dcf0c2bcc4583d0800000000000000
+      internalID: -3205071124302934730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_153
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 98
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f5f9f457dbdd000800000000000000
+      internalID: 62414281397722939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_154
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 98
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aa37a97c5b90590800000000000000
+      internalID: -7707429418373502329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_155
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 98
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62b01592256400c0800000000000000
+      internalID: -4610448919316352406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_156
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 98
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aecb0f47bd330950800000000000000
+      internalID: 6414038151820201632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_157
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 98
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdd422bba7a5f460800000000000000
+      internalID: 7274905128956911050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_158
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 98
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a167fc56341a5ea40800000000000000
+      internalID: 5396897039316383258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_159
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 98
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8e9d2a44b205190800000000000000
+      internalID: -7975827366283187984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_160
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 98
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9e7046e07b2edb0800000000000000
+      internalID: -4764044183368898099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289a3c5854b005ea0800000000000000
+      internalID: -5886192319748396670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_162
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 83
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d32f3e72a4053b0800000000000000
+      internalID: -5525835207595115262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_163
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 59
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e7c2ca135e175e0800000000000000
+      internalID: -1913496365150994794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ca4ff8185f972a0800000000000000
+      internalID: -6739085430568473586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_165
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d94691b93633dd0800000000000000
+      internalID: -2507551049718129311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Weapons_166
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 10
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587a5089091f5c960800000000000000
+      internalID: 7621763547722524549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

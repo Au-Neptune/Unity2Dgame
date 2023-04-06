@@ -1,0 +1,1668 @@
+fileFormatVersion: 2
+guid: 7f8a599ce18ae50439f5f79e0bafab28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 490319319247306274
+    second: PC Computer - Lost Ruins - Skeleton Archer_0
+  - first:
+      213: 4891406163651782824
+    second: PC Computer - Lost Ruins - Skeleton Archer_1
+  - first:
+      213: 8119830977693565274
+    second: PC Computer - Lost Ruins - Skeleton Archer_2
+  - first:
+      213: -6683751027664244818
+    second: PC Computer - Lost Ruins - Skeleton Archer_3
+  - first:
+      213: 4951470908262124778
+    second: PC Computer - Lost Ruins - Skeleton Archer_4
+  - first:
+      213: 2275743869111937038
+    second: PC Computer - Lost Ruins - Skeleton Archer_5
+  - first:
+      213: 4274474794287587754
+    second: PC Computer - Lost Ruins - Skeleton Archer_6
+  - first:
+      213: 5239351533186291885
+    second: PC Computer - Lost Ruins - Skeleton Archer_7
+  - first:
+      213: 7462439221907147931
+    second: PC Computer - Lost Ruins - Skeleton Archer_8
+  - first:
+      213: -3470753840451470154
+    second: PC Computer - Lost Ruins - Skeleton Archer_9
+  - first:
+      213: 7069988149201278188
+    second: PC Computer - Lost Ruins - Skeleton Archer_10
+  - first:
+      213: 4788482124093425563
+    second: PC Computer - Lost Ruins - Skeleton Archer_11
+  - first:
+      213: 8792671558813307409
+    second: PC Computer - Lost Ruins - Skeleton Archer_12
+  - first:
+      213: -1143646639260287868
+    second: PC Computer - Lost Ruins - Skeleton Archer_13
+  - first:
+      213: 1802463375097998840
+    second: PC Computer - Lost Ruins - Skeleton Archer_14
+  - first:
+      213: 5530422403260390744
+    second: PC Computer - Lost Ruins - Skeleton Archer_15
+  - first:
+      213: -1583385197422162447
+    second: PC Computer - Lost Ruins - Skeleton Archer_16
+  - first:
+      213: 73127964281461898
+    second: PC Computer - Lost Ruins - Skeleton Archer_17
+  - first:
+      213: -6041143565687709688
+    second: PC Computer - Lost Ruins - Skeleton Archer_18
+  - first:
+      213: -601198088174649783
+    second: PC Computer - Lost Ruins - Skeleton Archer_19
+  - first:
+      213: -4868096329249420469
+    second: PC Computer - Lost Ruins - Skeleton Archer_20
+  - first:
+      213: -5974458923792149430
+    second: PC Computer - Lost Ruins - Skeleton Archer_21
+  - first:
+      213: 263084405816577078
+    second: PC Computer - Lost Ruins - Skeleton Archer_22
+  - first:
+      213: 1002061776664388256
+    second: PC Computer - Lost Ruins - Skeleton Archer_23
+  - first:
+      213: 5599479748435731543
+    second: PC Computer - Lost Ruins - Skeleton Archer_24
+  - first:
+      213: -4430627817969116864
+    second: PC Computer - Lost Ruins - Skeleton Archer_25
+  - first:
+      213: -8333890298822829384
+    second: PC Computer - Lost Ruins - Skeleton Archer_26
+  - first:
+      213: -1536570326259078094
+    second: PC Computer - Lost Ruins - Skeleton Archer_27
+  - first:
+      213: -6243048278671071525
+    second: PC Computer - Lost Ruins - Skeleton Archer_28
+  - first:
+      213: 51831534709338562
+    second: PC Computer - Lost Ruins - Skeleton Archer_29
+  - first:
+      213: 7878238118281208722
+    second: PC Computer - Lost Ruins - Skeleton Archer_30
+  - first:
+      213: 119603349679689108
+    second: PC Computer - Lost Ruins - Skeleton Archer_31
+  - first:
+      213: -1442579562329370695
+    second: PC Computer - Lost Ruins - Skeleton Archer_32
+  - first:
+      213: 7595319246584709076
+    second: PC Computer - Lost Ruins - Skeleton Archer_33
+  - first:
+      213: 7501735730718435988
+    second: PC Computer - Lost Ruins - Skeleton Archer_34
+  - first:
+      213: 4912001966388066841
+    second: PC Computer - Lost Ruins - Skeleton Archer_35
+  - first:
+      213: -6672724284257612182
+    second: PC Computer - Lost Ruins - Skeleton Archer_36
+  - first:
+      213: 4555627394940568747
+    second: PC Computer - Lost Ruins - Skeleton Archer_37
+  - first:
+      213: -726683240624940894
+    second: PC Computer - Lost Ruins - Skeleton Archer_38
+  - first:
+      213: 4725690072003139974
+    second: PC Computer - Lost Ruins - Skeleton Archer_39
+  - first:
+      213: 1047351569863759977
+    second: PC Computer - Lost Ruins - Skeleton Archer_40
+  - first:
+      213: 7881025306187457033
+    second: PC Computer - Lost Ruins - Skeleton Archer_41
+  - first:
+      213: -8404703621682900744
+    second: PC Computer - Lost Ruins - Skeleton Archer_42
+  - first:
+      213: -962812780471040236
+    second: PC Computer - Lost Ruins - Skeleton Archer_43
+  - first:
+      213: -8080099938887804541
+    second: PC Computer - Lost Ruins - Skeleton Archer_44
+  - first:
+      213: -8705929658588039234
+    second: PC Computer - Lost Ruins - Skeleton Archer_45
+  - first:
+      213: 5862137145692698564
+    second: PC Computer - Lost Ruins - Skeleton Archer_46
+  - first:
+      213: 7202973984468339665
+    second: PC Computer - Lost Ruins - Skeleton Archer_47
+  - first:
+      213: -3857695657045768090
+    second: PC Computer - Lost Ruins - Skeleton Archer_48
+  - first:
+      213: 18880627735029606
+    second: PC Computer - Lost Ruins - Skeleton Archer_49
+  - first:
+      213: -2142108461591552067
+    second: PC Computer - Lost Ruins - Skeleton Archer_50
+  - first:
+      213: 7824967789055985038
+    second: PC Computer - Lost Ruins - Skeleton Archer_51
+  - first:
+      213: 5992693340647365782
+    second: PC Computer - Lost Ruins - Skeleton Archer_52
+  - first:
+      213: -4399166112388391323
+    second: PC Computer - Lost Ruins - Skeleton Archer_53
+  - first:
+      213: 5502994446016129483
+    second: PC Computer - Lost Ruins - Skeleton Archer_54
+  - first:
+      213: 3530412990197479025
+    second: PC Computer - Lost Ruins - Skeleton Archer_55
+  - first:
+      213: -5275447130756198832
+    second: PC Computer - Lost Ruins - Skeleton Archer_56
+  - first:
+      213: -7724209429821018657
+    second: PC Computer - Lost Ruins - Skeleton Archer_57
+  - first:
+      213: -8682456552077749183
+    second: PC Computer - Lost Ruins - Skeleton Archer_58
+  - first:
+      213: -3183322150930315142
+    second: PC Computer - Lost Ruins - Skeleton Archer_59
+  - first:
+      213: 9025980049264317294
+    second: PC Computer - Lost Ruins - Skeleton Archer_60
+  - first:
+      213: -1057728400829910729
+    second: PC Computer - Lost Ruins - Skeleton Archer_61
+  - first:
+      213: 4481746149159277004
+    second: PC Computer - Lost Ruins - Skeleton Archer_62
+  - first:
+      213: 6507812146064943989
+    second: PC Computer - Lost Ruins - Skeleton Archer_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 416
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e3f32b2d6fdc600800000000000000
+      internalID: 490319319247306274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 416
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8ee947df3c1e340800000000000000
+      internalID: 4891406163651782824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 352
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5143a5e04f6fa070800000000000000
+      internalID: 8119830977693565274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 352
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafabe43adb8e33a0800000000000000
+      internalID: -6683751027664244818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 352
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec05aa9e8827b440800000000000000
+      internalID: 4951470908262124778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 352
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08a036ddf0159f10800000000000000
+      internalID: 2275743869111937038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa16fd2ad2cf15b30800000000000000
+      internalID: 4274474794287587754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 352
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da897fcc57ae5b840800000000000000
+      internalID: 5239351533186291885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 352
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cc7b34fe8ef8760800000000000000
+      internalID: 7462439221907147931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_9
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 352
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc311d55c765dfc0800000000000000
+      internalID: -3470753840451470154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 288
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce41d5763c4ad1260800000000000000
+      internalID: 7069988149201278188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 288
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9785e31f1b147240800000000000000
+      internalID: 4788482124093425563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 288
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1125fb97238d50a70800000000000000
+      internalID: 8792671558813307409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 288
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c325ed073f020f0800000000000000
+      internalID: -1143646639260287868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 288
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd2e59c3e2a30910800000000000000
+      internalID: 1802463375097998840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_15
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 288
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d9234dfd100cc40800000000000000
+      internalID: 5530422403260390744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 288
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd4a055d8fa60ae0800000000000000
+      internalID: -1583385197422162447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_17
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 288
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cd42efe7dc30100800000000000000
+      internalID: 73127964281461898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 274
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8002c023feb892ca0800000000000000
+      internalID: -6041143565687709688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 274
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eb4ba268d18a7f0800000000000000
+      internalID: -601198088174649783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 274
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b84ba4e2c017cb0800000000000000
+      internalID: -4868096329249420469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 215
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44d43a4345761da0800000000000000
+      internalID: -5974458923792149430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 215
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c44aa8fd9a6a300800000000000000
+      internalID: 263084405816577078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_23
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 215
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2e31170e908ed00800000000000000
+      internalID: 1002061776664388256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_24
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 215
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7546184f92955bd40800000000000000
+      internalID: 5599479748435731543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_25
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 215
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0499cf9597f3382c0800000000000000
+      internalID: -4430627817969116864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 215
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba57959de2185c80800000000000000
+      internalID: -8333890298822829384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 215
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cebeaed610daae0800000000000000
+      internalID: -1536570326259078094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_28
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 215
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6623aeaac3c59a0800000000000000
+      internalID: -6243048278671071525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 201
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c17386918428b000800000000000000
+      internalID: 51831534709338562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 201
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293e710f3df155d60800000000000000
+      internalID: 7878238118281208722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_31
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 201
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dca93ec9ae8a100800000000000000
+      internalID: 119603349679689108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 201
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf8e1bf78deafbe0800000000000000
+      internalID: -1442579562329370695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 139
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df7e50fc9ef76960800000000000000
+      internalID: 7595319246584709076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 139
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ae354b6e48b1860800000000000000
+      internalID: 7501735730718435988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 139
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ab49673cfea2440800000000000000
+      internalID: 4912001966388066841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_36
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 139
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ec3b8fd98b563a0800000000000000
+      internalID: -6672724284257612182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_37
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 139
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4887c9af6d83f30800000000000000
+      internalID: 4555627394940568747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_38
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 139
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8125a517d4ae5f0800000000000000
+      internalID: -726683240624940894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_39
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 139
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689565c2516059140800000000000000
+      internalID: 4725690072003139974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_40
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 139
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9685da424b0f88e00800000000000000
+      internalID: 1047351569863759977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 125
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902ea21b2c60f5d60800000000000000
+      internalID: 7881025306187457033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 125
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0d62b069e7c5b80800000000000000
+      internalID: -8404703621682900744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_43
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 125
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41741da90e663a2f0800000000000000
+      internalID: -962812780471040236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 115
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389dfe07ae7bddf80800000000000000
+      internalID: -8080099938887804541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 102
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7725cf9135e2780800000000000000
+      internalID: -8705929658588039234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 102
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7b2a1dcae7a5150800000000000000
+      internalID: 5862137145692698564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_47
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 102
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db8d960daa16f360800000000000000
+      internalID: 7202973984468339665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_48
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 102
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66848362d36b67ac0800000000000000
+      internalID: -3857695657045768090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_49
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 100
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6676845b4d3134000800000000000000
+      internalID: 18880627735029606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 102
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf1a7c14b3b542e0800000000000000
+      internalID: -2142108461591552067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_51
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 102
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e854e85eebed79c60800000000000000
+      internalID: 7824967789055985038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_52
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 102
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c9229b7d25a2350800000000000000
+      internalID: 5992693340647365782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 102
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e57238ab503f2c0800000000000000
+      internalID: -4399166112388391323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 43
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc92db3ea409e5c40800000000000000
+      internalID: 5502994446016129483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176352fd8eb8ef030800000000000000
+      internalID: 3530412990197479025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_56
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 29
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e4cebf8c8d9c6b0800000000000000
+      internalID: -5275447130756198832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_57
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 29
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddabccb2781ec490800000000000000
+      internalID: -7724209429821018657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_58
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 29
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14494ab74c7b18780800000000000000
+      internalID: -8682456552077749183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_59
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a788a24ae5192d3d0800000000000000
+      internalID: -3183322150930315142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 10
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63992a7809b24d70800000000000000
+      internalID: 9025980049264317294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_61
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 8
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731f0bf9f913251f0800000000000000
+      internalID: -1057728400829910729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_62
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc11d1a906c523e30800000000000000
+      internalID: 4481746149159277004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Skeleton Archer_63
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 9
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b6c2fbaa4605a50800000000000000
+      internalID: 6507812146064943989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

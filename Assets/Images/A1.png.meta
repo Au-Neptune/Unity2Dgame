@@ -1,0 +1,5160 @@
+fileFormatVersion: 2
+guid: 47e1cea20a1fc6544be3fb0954f0b404
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5090619161800272948
+    second: PC Computer - Lost Ruins - UI (1)_0
+  - first:
+      213: -7626502062478204751
+    second: PC Computer - Lost Ruins - UI (1)_1
+  - first:
+      213: 3843042731201082749
+    second: PC Computer - Lost Ruins - UI (1)_2
+  - first:
+      213: -3126733517305274324
+    second: PC Computer - Lost Ruins - UI (1)_3
+  - first:
+      213: -868273760296934278
+    second: PC Computer - Lost Ruins - UI (1)_4
+  - first:
+      213: -4864768495647941167
+    second: PC Computer - Lost Ruins - UI (1)_5
+  - first:
+      213: 5953466542672847370
+    second: PC Computer - Lost Ruins - UI (1)_6
+  - first:
+      213: 1932125702177029873
+    second: PC Computer - Lost Ruins - UI (1)_7
+  - first:
+      213: -3707492501721586583
+    second: PC Computer - Lost Ruins - UI (1)_8
+  - first:
+      213: 4519046216502263326
+    second: PC Computer - Lost Ruins - UI (1)_9
+  - first:
+      213: -7614704800939133639
+    second: PC Computer - Lost Ruins - UI (1)_10
+  - first:
+      213: 8837958223740799200
+    second: PC Computer - Lost Ruins - UI (1)_11
+  - first:
+      213: 6963122559564605175
+    second: PC Computer - Lost Ruins - UI (1)_12
+  - first:
+      213: -5070799325241137373
+    second: PC Computer - Lost Ruins - UI (1)_13
+  - first:
+      213: -7608912993196561982
+    second: PC Computer - Lost Ruins - UI (1)_14
+  - first:
+      213: -1801931567557014943
+    second: PC Computer - Lost Ruins - UI (1)_15
+  - first:
+      213: 8699399422857239723
+    second: PC Computer - Lost Ruins - UI (1)_16
+  - first:
+      213: 4885815637135917387
+    second: PC Computer - Lost Ruins - UI (1)_17
+  - first:
+      213: -5408920066839632646
+    second: PC Computer - Lost Ruins - UI (1)_18
+  - first:
+      213: -6330768002875465034
+    second: PC Computer - Lost Ruins - UI (1)_19
+  - first:
+      213: 3701211865619878698
+    second: PC Computer - Lost Ruins - UI (1)_20
+  - first:
+      213: -8091836692986395229
+    second: PC Computer - Lost Ruins - UI (1)_21
+  - first:
+      213: 5394982612904525334
+    second: PC Computer - Lost Ruins - UI (1)_22
+  - first:
+      213: -4283090160398147657
+    second: PC Computer - Lost Ruins - UI (1)_23
+  - first:
+      213: 7359591797704659436
+    second: PC Computer - Lost Ruins - UI (1)_24
+  - first:
+      213: -863048669373141181
+    second: PC Computer - Lost Ruins - UI (1)_25
+  - first:
+      213: 6769420303150384593
+    second: PC Computer - Lost Ruins - UI (1)_26
+  - first:
+      213: 8075582568593644294
+    second: PC Computer - Lost Ruins - UI (1)_27
+  - first:
+      213: -418391191859439092
+    second: PC Computer - Lost Ruins - UI (1)_28
+  - first:
+      213: -250307299064138480
+    second: PC Computer - Lost Ruins - UI (1)_29
+  - first:
+      213: 5737198310540590668
+    second: PC Computer - Lost Ruins - UI (1)_30
+  - first:
+      213: -1641382214619208343
+    second: PC Computer - Lost Ruins - UI (1)_31
+  - first:
+      213: 11739800552730263
+    second: PC Computer - Lost Ruins - UI (1)_32
+  - first:
+      213: -6836644093758508532
+    second: PC Computer - Lost Ruins - UI (1)_33
+  - first:
+      213: 1063373427501317771
+    second: PC Computer - Lost Ruins - UI (1)_34
+  - first:
+      213: 1368712488155504641
+    second: PC Computer - Lost Ruins - UI (1)_35
+  - first:
+      213: -5674084623528181108
+    second: PC Computer - Lost Ruins - UI (1)_36
+  - first:
+      213: -8325135898407848522
+    second: PC Computer - Lost Ruins - UI (1)_37
+  - first:
+      213: 3099380081295781584
+    second: PC Computer - Lost Ruins - UI (1)_38
+  - first:
+      213: 481673012749379375
+    second: PC Computer - Lost Ruins - UI (1)_39
+  - first:
+      213: -7114708443891299515
+    second: PC Computer - Lost Ruins - UI (1)_40
+  - first:
+      213: -4777274733183847748
+    second: PC Computer - Lost Ruins - UI (1)_41
+  - first:
+      213: 2267528563861601693
+    second: PC Computer - Lost Ruins - UI (1)_42
+  - first:
+      213: 4510227440630958321
+    second: PC Computer - Lost Ruins - UI (1)_43
+  - first:
+      213: -8991179008500559431
+    second: PC Computer - Lost Ruins - UI (1)_44
+  - first:
+      213: -7398363682073648184
+    second: PC Computer - Lost Ruins - UI (1)_45
+  - first:
+      213: -6136652382659976742
+    second: PC Computer - Lost Ruins - UI (1)_46
+  - first:
+      213: -3272854527331292818
+    second: PC Computer - Lost Ruins - UI (1)_47
+  - first:
+      213: -998439340016873449
+    second: PC Computer - Lost Ruins - UI (1)_48
+  - first:
+      213: 3471279320783376614
+    second: PC Computer - Lost Ruins - UI (1)_49
+  - first:
+      213: -5570641399001548058
+    second: PC Computer - Lost Ruins - UI (1)_50
+  - first:
+      213: -1250681658855417749
+    second: PC Computer - Lost Ruins - UI (1)_51
+  - first:
+      213: 1175195293305945846
+    second: PC Computer - Lost Ruins - UI (1)_52
+  - first:
+      213: 6363872001591228577
+    second: PC Computer - Lost Ruins - UI (1)_53
+  - first:
+      213: -4441401886231122510
+    second: PC Computer - Lost Ruins - UI (1)_54
+  - first:
+      213: 7822189343542023513
+    second: PC Computer - Lost Ruins - UI (1)_55
+  - first:
+      213: -2085183545679118455
+    second: PC Computer - Lost Ruins - UI (1)_56
+  - first:
+      213: 5673675523681280068
+    second: PC Computer - Lost Ruins - UI (1)_57
+  - first:
+      213: 7103077384415812924
+    second: PC Computer - Lost Ruins - UI (1)_58
+  - first:
+      213: -6164408123091173765
+    second: PC Computer - Lost Ruins - UI (1)_59
+  - first:
+      213: -7934018365154773322
+    second: PC Computer - Lost Ruins - UI (1)_60
+  - first:
+      213: 443795399094740636
+    second: PC Computer - Lost Ruins - UI (1)_61
+  - first:
+      213: -2228179851505156314
+    second: PC Computer - Lost Ruins - UI (1)_62
+  - first:
+      213: -8498428587336024764
+    second: PC Computer - Lost Ruins - UI (1)_63
+  - first:
+      213: 8131115013088973703
+    second: PC Computer - Lost Ruins - UI (1)_64
+  - first:
+      213: 8330772684067136279
+    second: PC Computer - Lost Ruins - UI (1)_65
+  - first:
+      213: -2473382529931556196
+    second: PC Computer - Lost Ruins - UI (1)_66
+  - first:
+      213: -9144023007839403407
+    second: PC Computer - Lost Ruins - UI (1)_67
+  - first:
+      213: -7914310515704417984
+    second: PC Computer - Lost Ruins - UI (1)_68
+  - first:
+      213: 6184937585185311330
+    second: PC Computer - Lost Ruins - UI (1)_69
+  - first:
+      213: 6736437045573231391
+    second: PC Computer - Lost Ruins - UI (1)_70
+  - first:
+      213: -7359081803347853203
+    second: PC Computer - Lost Ruins - UI (1)_71
+  - first:
+      213: -6099835642722163395
+    second: PC Computer - Lost Ruins - UI (1)_72
+  - first:
+      213: -5746820741368001543
+    second: PC Computer - Lost Ruins - UI (1)_73
+  - first:
+      213: -1795464808842532007
+    second: PC Computer - Lost Ruins - UI (1)_74
+  - first:
+      213: 6122927333318663766
+    second: PC Computer - Lost Ruins - UI (1)_75
+  - first:
+      213: 5266284701830973560
+    second: PC Computer - Lost Ruins - UI (1)_76
+  - first:
+      213: 511425778063649452
+    second: PC Computer - Lost Ruins - UI (1)_77
+  - first:
+      213: 2489458645444733342
+    second: PC Computer - Lost Ruins - UI (1)_78
+  - first:
+      213: -5202840670138153114
+    second: PC Computer - Lost Ruins - UI (1)_79
+  - first:
+      213: -253666124465644107
+    second: PC Computer - Lost Ruins - UI (1)_80
+  - first:
+      213: 8242086994143521262
+    second: PC Computer - Lost Ruins - UI (1)_81
+  - first:
+      213: 8510635495155329344
+    second: PC Computer - Lost Ruins - UI (1)_82
+  - first:
+      213: 7474457715220759654
+    second: PC Computer - Lost Ruins - UI (1)_83
+  - first:
+      213: -3943287025823031874
+    second: PC Computer - Lost Ruins - UI (1)_84
+  - first:
+      213: -5924855459873335703
+    second: PC Computer - Lost Ruins - UI (1)_85
+  - first:
+      213: -6306531969402958160
+    second: PC Computer - Lost Ruins - UI (1)_86
+  - first:
+      213: 7204469412271588835
+    second: PC Computer - Lost Ruins - UI (1)_87
+  - first:
+      213: 4106066612001261177
+    second: PC Computer - Lost Ruins - UI (1)_88
+  - first:
+      213: 762658273988694154
+    second: PC Computer - Lost Ruins - UI (1)_89
+  - first:
+      213: -2925110421058581696
+    second: PC Computer - Lost Ruins - UI (1)_90
+  - first:
+      213: 3266232194412327710
+    second: PC Computer - Lost Ruins - UI (1)_91
+  - first:
+      213: 6029227774361706239
+    second: PC Computer - Lost Ruins - UI (1)_92
+  - first:
+      213: -4353867030430783581
+    second: PC Computer - Lost Ruins - UI (1)_93
+  - first:
+      213: 8504981167660821477
+    second: PC Computer - Lost Ruins - UI (1)_94
+  - first:
+      213: 4717349543021562687
+    second: PC Computer - Lost Ruins - UI (1)_95
+  - first:
+      213: -6503706524180629482
+    second: PC Computer - Lost Ruins - UI (1)_96
+  - first:
+      213: 3801741010217747136
+    second: PC Computer - Lost Ruins - UI (1)_97
+  - first:
+      213: 5321518952380112308
+    second: PC Computer - Lost Ruins - UI (1)_98
+  - first:
+      213: 5093170216780462425
+    second: PC Computer - Lost Ruins - UI (1)_99
+  - first:
+      213: -7697951249331295784
+    second: PC Computer - Lost Ruins - UI (1)_100
+  - first:
+      213: -1388599294321788133
+    second: PC Computer - Lost Ruins - UI (1)_101
+  - first:
+      213: -5966277516869044632
+    second: PC Computer - Lost Ruins - UI (1)_102
+  - first:
+      213: 2231257155455780191
+    second: PC Computer - Lost Ruins - UI (1)_103
+  - first:
+      213: -9138163126821979614
+    second: PC Computer - Lost Ruins - UI (1)_104
+  - first:
+      213: -7276630394377655176
+    second: PC Computer - Lost Ruins - UI (1)_105
+  - first:
+      213: 4987050142234047411
+    second: PC Computer - Lost Ruins - UI (1)_106
+  - first:
+      213: -3787720121171240717
+    second: PC Computer - Lost Ruins - UI (1)_107
+  - first:
+      213: -5700925157077546744
+    second: PC Computer - Lost Ruins - UI (1)_108
+  - first:
+      213: -8449560027850041615
+    second: PC Computer - Lost Ruins - UI (1)_109
+  - first:
+      213: 6365232577010980821
+    second: PC Computer - Lost Ruins - UI (1)_110
+  - first:
+      213: -1657203668881113390
+    second: PC Computer - Lost Ruins - UI (1)_111
+  - first:
+      213: -5220663701715949642
+    second: PC Computer - Lost Ruins - UI (1)_112
+  - first:
+      213: -2426757067258275804
+    second: PC Computer - Lost Ruins - UI (1)_113
+  - first:
+      213: 8029221451254632795
+    second: PC Computer - Lost Ruins - UI (1)_114
+  - first:
+      213: 2034393244854544854
+    second: PC Computer - Lost Ruins - UI (1)_115
+  - first:
+      213: 2005079774752960013
+    second: PC Computer - Lost Ruins - UI (1)_116
+  - first:
+      213: 86309470497434459
+    second: PC Computer - Lost Ruins - UI (1)_117
+  - first:
+      213: 5111990618384053684
+    second: PC Computer - Lost Ruins - UI (1)_118
+  - first:
+      213: -8039367683332402241
+    second: PC Computer - Lost Ruins - UI (1)_119
+  - first:
+      213: -8424632307631938701
+    second: PC Computer - Lost Ruins - UI (1)_120
+  - first:
+      213: -4917981038314514360
+    second: PC Computer - Lost Ruins - UI (1)_121
+  - first:
+      213: -805166275146898767
+    second: PC Computer - Lost Ruins - UI (1)_122
+  - first:
+      213: 406885463631191380
+    second: PC Computer - Lost Ruins - UI (1)_123
+  - first:
+      213: -4439295901298452238
+    second: PC Computer - Lost Ruins - UI (1)_124
+  - first:
+      213: -7036535462962303441
+    second: PC Computer - Lost Ruins - UI (1)_125
+  - first:
+      213: 3996833282375621482
+    second: PC Computer - Lost Ruins - UI (1)_126
+  - first:
+      213: -8541571340375294523
+    second: PC Computer - Lost Ruins - UI (1)_127
+  - first:
+      213: 5177882729737780693
+    second: PC Computer - Lost Ruins - UI (1)_128
+  - first:
+      213: 5605243712417051707
+    second: PC Computer - Lost Ruins - UI (1)_129
+  - first:
+      213: -5129485979097086388
+    second: PC Computer - Lost Ruins - UI (1)_130
+  - first:
+      213: 7856890289726179627
+    second: PC Computer - Lost Ruins - UI (1)_131
+  - first:
+      213: -8984596637487498047
+    second: PC Computer - Lost Ruins - UI (1)_132
+  - first:
+      213: 8255547888771265908
+    second: PC Computer - Lost Ruins - UI (1)_133
+  - first:
+      213: 1271326426693612197
+    second: PC Computer - Lost Ruins - UI (1)_134
+  - first:
+      213: 3626043873005564620
+    second: PC Computer - Lost Ruins - UI (1)_135
+  - first:
+      213: 7116960455539981225
+    second: PC Computer - Lost Ruins - UI (1)_136
+  - first:
+      213: 3754697229543175845
+    second: PC Computer - Lost Ruins - UI (1)_137
+  - first:
+      213: 2597396761671636429
+    second: PC Computer - Lost Ruins - UI (1)_138
+  - first:
+      213: 4117457284454960627
+    second: PC Computer - Lost Ruins - UI (1)_139
+  - first:
+      213: 4221238727719457309
+    second: PC Computer - Lost Ruins - UI (1)_140
+  - first:
+      213: -4157396647891927179
+    second: PC Computer - Lost Ruins - UI (1)_141
+  - first:
+      213: 2586704199802967896
+    second: PC Computer - Lost Ruins - UI (1)_142
+  - first:
+      213: 7112890489308391667
+    second: PC Computer - Lost Ruins - UI (1)_143
+  - first:
+      213: 3610103206471220974
+    second: PC Computer - Lost Ruins - UI (1)_144
+  - first:
+      213: -2528958284696422971
+    second: PC Computer - Lost Ruins - UI (1)_145
+  - first:
+      213: 721475612552801305
+    second: PC Computer - Lost Ruins - UI (1)_146
+  - first:
+      213: -145458104008501547
+    second: PC Computer - Lost Ruins - UI (1)_147
+  - first:
+      213: -599928470192047512
+    second: PC Computer - Lost Ruins - UI (1)_148
+  - first:
+      213: 2183832323266118839
+    second: PC Computer - Lost Ruins - UI (1)_149
+  - first:
+      213: -7804180668173000926
+    second: PC Computer - Lost Ruins - UI (1)_150
+  - first:
+      213: -7057766451188580634
+    second: PC Computer - Lost Ruins - UI (1)_151
+  - first:
+      213: 1971483319352604949
+    second: PC Computer - Lost Ruins - UI (1)_152
+  - first:
+      213: 2899584144964798743
+    second: PC Computer - Lost Ruins - UI (1)_153
+  - first:
+      213: -6524171268723272753
+    second: PC Computer - Lost Ruins - UI (1)_154
+  - first:
+      213: 4736599310736029628
+    second: PC Computer - Lost Ruins - UI (1)_155
+  - first:
+      213: -4555637104356499297
+    second: PC Computer - Lost Ruins - UI (1)_156
+  - first:
+      213: -5108959521723562024
+    second: PC Computer - Lost Ruins - UI (1)_157
+  - first:
+      213: -8720052271285782893
+    second: PC Computer - Lost Ruins - UI (1)_158
+  - first:
+      213: 811622036908939143
+    second: PC Computer - Lost Ruins - UI (1)_159
+  - first:
+      213: 6526501195836525195
+    second: PC Computer - Lost Ruins - UI (1)_160
+  - first:
+      213: -7913709956853258909
+    second: PC Computer - Lost Ruins - UI (1)_161
+  - first:
+      213: 5903767678769402190
+    second: PC Computer - Lost Ruins - UI (1)_162
+  - first:
+      213: -1070697141303414923
+    second: PC Computer - Lost Ruins - UI (1)_163
+  - first:
+      213: 341610485864952059
+    second: PC Computer - Lost Ruins - UI (1)_164
+  - first:
+      213: -1533542816116940110
+    second: PC Computer - Lost Ruins - UI (1)_165
+  - first:
+      213: 1242229025642809846
+    second: PC Computer - Lost Ruins - UI (1)_166
+  - first:
+      213: -7747233911144808003
+    second: PC Computer - Lost Ruins - UI (1)_167
+  - first:
+      213: -2072918105025877079
+    second: PC Computer - Lost Ruins - UI (1)_168
+  - first:
+      213: 5124185337316755258
+    second: PC Computer - Lost Ruins - UI (1)_169
+  - first:
+      213: 2740582138467270878
+    second: PC Computer - Lost Ruins - UI (1)_170
+  - first:
+      213: -2607782417226956566
+    second: PC Computer - Lost Ruins - UI (1)_171
+  - first:
+      213: -1716572092792603375
+    second: PC Computer - Lost Ruins - UI (1)_172
+  - first:
+      213: -1221825595858438666
+    second: PC Computer - Lost Ruins - UI (1)_173
+  - first:
+      213: 789531451511608943
+    second: PC Computer - Lost Ruins - UI (1)_174
+  - first:
+      213: 208419329461884833
+    second: PC Computer - Lost Ruins - UI (1)_175
+  - first:
+      213: 5391171892481818380
+    second: PC Computer - Lost Ruins - UI (1)_176
+  - first:
+      213: -895830249629273923
+    second: PC Computer - Lost Ruins - UI (1)_177
+  - first:
+      213: 7361015293333346279
+    second: PC Computer - Lost Ruins - UI (1)_178
+  - first:
+      213: 1871507362188564387
+    second: PC Computer - Lost Ruins - UI (1)_179
+  - first:
+      213: -9001293396485947005
+    second: PC Computer - Lost Ruins - UI (1)_180
+  - first:
+      213: -8516137233718178234
+    second: PC Computer - Lost Ruins - UI (1)_181
+  - first:
+      213: -8234154111740195642
+    second: PC Computer - Lost Ruins - UI (1)_182
+  - first:
+      213: -5129014379323313725
+    second: PC Computer - Lost Ruins - UI (1)_183
+  - first:
+      213: -1379664030150343318
+    second: PC Computer - Lost Ruins - UI (1)_184
+  - first:
+      213: -2419580941470790652
+    second: PC Computer - Lost Ruins - UI (1)_185
+  - first:
+      213: 4526075373757414578
+    second: PC Computer - Lost Ruins - UI (1)_186
+  - first:
+      213: -8080775046027408517
+    second: PC Computer - Lost Ruins - UI (1)_187
+  - first:
+      213: 1315215276781923334
+    second: PC Computer - Lost Ruins - UI (1)_188
+  - first:
+      213: 7836318753272226229
+    second: PC Computer - Lost Ruins - UI (1)_189
+  - first:
+      213: -7338569214458888594
+    second: PC Computer - Lost Ruins - UI (1)_190
+  - first:
+      213: 8295215881307953440
+    second: PC Computer - Lost Ruins - UI (1)_191
+  - first:
+      213: -5270067749035705564
+    second: PC Computer - Lost Ruins - UI (1)_192
+  - first:
+      213: -5510441764979267783
+    second: PC Computer - Lost Ruins - UI (1)_193
+  - first:
+      213: 6288917901883746600
+    second: PC Computer - Lost Ruins - UI (1)_194
+  - first:
+      213: -1994792379540743969
+    second: PC Computer - Lost Ruins - UI (1)_195
+  - first:
+      213: 109736876746990405
+    second: PC Computer - Lost Ruins - UI (1)_196
+  - first:
+      213: -9130719646482465355
+    second: PC Computer - Lost Ruins - UI (1)_197
+  - first:
+      213: -6096120406133584223
+    second: PC Computer - Lost Ruins - UI (1)_198
+  - first:
+      213: -8473390816040304911
+    second: PC Computer - Lost Ruins - UI (1)_199
+  - first:
+      213: -2086178264057756633
+    second: PC Computer - Lost Ruins - UI (1)_200
+  - first:
+      213: 8076254947439988413
+    second: PC Computer - Lost Ruins - UI (1)_201
+  - first:
+      213: 916931974180569454
+    second: PC Computer - Lost Ruins - UI (1)_202
+  - first:
+      213: 9034089132455626372
+    second: PC Computer - Lost Ruins - UI (1)_203
+  - first:
+      213: 1769044527779572496
+    second: PC Computer - Lost Ruins - UI (1)_204
+  - first:
+      213: 9186087255543830034
+    second: PC Computer - Lost Ruins - UI (1)_205
+  - first:
+      213: -6083312895258549422
+    second: PC Computer - Lost Ruins - UI (1)_206
+  - first:
+      213: 4646500942357978267
+    second: PC Computer - Lost Ruins - UI (1)_207
+  - first:
+      213: -5175040657819657071
+    second: PC Computer - Lost Ruins - UI (1)_208
+  - first:
+      213: 8914226214377460519
+    second: PC Computer - Lost Ruins - UI (1)_209
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1649
+        width: 57
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc31916f7dc7a59b0800000000000000
+      internalID: -5090619161800272948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1651
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0e337f7c8392690800000000000000
+      internalID: -7626502062478204751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1600
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7533e1b00b355530800000000000000
+      internalID: 3843042731201082749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1600
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2026b1ae6c9b94d0800000000000000
+      internalID: -3126733517305274324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1600
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7465b58d9543f3f0800000000000000
+      internalID: -868273760296934278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1600
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd946ee3dedc7cb0800000000000000
+      internalID: -4864768495647941167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1600
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02203a1746fe9250800000000000000
+      internalID: 5953466542672847370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1600
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fef9abd61a40da10800000000000000
+      internalID: 1932125702177029873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1600
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964e57b76375c8cc0800000000000000
+      internalID: -3707492501721586583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1600
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eb03a4790e6be30800000000000000
+      internalID: 4519046216502263326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1580
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935bf86f352235690800000000000000
+      internalID: -7614704800939133639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1580
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e800d1dd2cb6aa70800000000000000
+      internalID: 8837958223740799200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1415
+        width: 139
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f66b52631bf1a060800000000000000
+      internalID: 6963122559564605175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1415
+        width: 141
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32726b341e6e0a9b0800000000000000
+      internalID: -5070799325241137373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_14
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1415
+        width: 124
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c92aa942f5b76690800000000000000
+      internalID: -7608912993196561982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_15
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1420
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a833e49c04ef6e0800000000000000
+      internalID: -1801931567557014943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_16
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1415
+        width: 75
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacd4a60fa97ab870800000000000000
+      internalID: 8699399422857239723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_17
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1415
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4109819f67edc340800000000000000
+      internalID: 4885815637135917387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1415
+        width: 146
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4aa8d5bd7afe4b0800000000000000
+      internalID: -5408920066839632646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1415
+        width: 208
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2e2311b089428a0800000000000000
+      internalID: -6330768002875465034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1395
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23dbb8f4985d5330800000000000000
+      internalID: 3701211865619878698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1392
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5031e666504bf80800000000000000
+      internalID: -8091836692986395229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1346
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e35934a14deda40800000000000000
+      internalID: 5394982612904525334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_23
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1346
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf5f7021386f84c0800000000000000
+      internalID: -4283090160398147657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1347
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1901a4fb5822660800000000000000
+      internalID: 7359591797704659436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1374
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fe32ecec5d504f0800000000000000
+      internalID: -863048669373141181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1348
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5889856efc1fd50800000000000000
+      internalID: 6769420303150384593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1347
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b5c535f8b321070800000000000000
+      internalID: 8075582568593644294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_28
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1346
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ad0108d63913af0800000000000000
+      internalID: -418391191859439092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_29
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1370
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015389276dab68cf0800000000000000
+      internalID: -250307299064138480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_30
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1346
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e3eb9677f9e9f40800000000000000
+      internalID: 5737198310540590668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_31
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1346
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9656afc7293a839e0800000000000000
+      internalID: -1641382214619208343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_32
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1344
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eeda15945b92000800000000000000
+      internalID: 11739800552730263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_33
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1354
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0270c73b6c5f11a0800000000000000
+      internalID: -6836644093758508532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_34
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1347
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e3ec19f7cd1ce00800000000000000
+      internalID: 1063373427501317771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_35
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1358
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100662891c4aef210800000000000000
+      internalID: 1368712488155504641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_36
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1362
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82c815f81a9141b0800000000000000
+      internalID: -5674084623528181108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_37
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1348
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b53c84420d277c80800000000000000
+      internalID: -8325135898407848522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_38
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1347
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de6e8143c5330b20800000000000000
+      internalID: 3099380081295781584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_39
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1346
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27a1d69d0f3fa600800000000000000
+      internalID: 481673012749379375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_40
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1345
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b03699d5a734d90800000000000000
+      internalID: -7114708443891299515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_41
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1376
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2b026f0f5b3bdb0800000000000000
+      internalID: -4777274733183847748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_42
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1347
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9db5070731e77f10800000000000000
+      internalID: 2267528563861601693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_43
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1382
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8070706fb879e30800000000000000
+      internalID: 4510227440630958321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_44
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1345
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1106e345ae83380800000000000000
+      internalID: -8991179008500559431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_45
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1350
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c369daed6bb35990800000000000000
+      internalID: -7398363682073648184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_46
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1352
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad16f7ddb2b36daa0800000000000000
+      internalID: -6136652382659976742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_47
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1345
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69a3e0d52c7492d0800000000000000
+      internalID: -3272854527331292818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_48
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1349
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710d480d5b4d422f0800000000000000
+      internalID: -998439340016873449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_49
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1347
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0d37f86267c2030800000000000000
+      internalID: 3471279320783376614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_50
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1351
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea7d61892b11b2b0800000000000000
+      internalID: -5570641399001548058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_51
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1368
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6893dc58afa4aee0800000000000000
+      internalID: -1250681658855417749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_52
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1368
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe363f84e12f4010800000000000000
+      internalID: 1175195293305945846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_53
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1368
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a836e24ed3015850800000000000000
+      internalID: 6363872001591228577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_54
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1346
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bda17a1488fc52c0800000000000000
+      internalID: -4441401886231122510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_55
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1347
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9551ba3a3cffd8c60800000000000000
+      internalID: 7822189343542023513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_56
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1346
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f7e4cec90ff03e0800000000000000
+      internalID: -2085183545679118455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1347
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440e9df04d1fcbe40800000000000000
+      internalID: 5673675523681280068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_58
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1348
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d17365f33339260800000000000000
+      internalID: 7103077384415812924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1323
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e3e94f87f937aa0800000000000000
+      internalID: -6164408123091173765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1326
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b636874554b4e190800000000000000
+      internalID: -7934018365154773322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1273
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96aefb609da82600800000000000000
+      internalID: 443795399094740636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_62
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1263
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f3a5ffa3ae311e0800000000000000
+      internalID: -2228179851505156314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_63
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1271
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dbfc6f9348f0a80800000000000000
+      internalID: -8498428587336024764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_64
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1265
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783930f160687d070800000000000000
+      internalID: 8131115013088973703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_65
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1269
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713695a2e99dc9370800000000000000
+      internalID: 8330772684067136279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_66
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1269
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ac5cd81b7ccadd0800000000000000
+      internalID: -2473382529931556196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_67
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1271
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172cbbf7587e91180800000000000000
+      internalID: -9144023007839403407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_68
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1281
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041bc4d8488ba2290800000000000000
+      internalID: -7914310515704417984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_69
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1269
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26aceeae6ff45d550800000000000000
+      internalID: 6184937585185311330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_70
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1261
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13ac214dc1ac7d50800000000000000
+      internalID: 6736437045573231391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_71
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1277
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d600966071a4fd990800000000000000
+      internalID: -7359081803347853203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_72
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1261
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35674f1dc7095ba0800000000000000
+      internalID: -6099835642722163395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_73
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1269
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbc9e2dbf03f30b0800000000000000
+      internalID: -5746820741368001543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_74
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1261
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95be936e44a3517e0800000000000000
+      internalID: -1795464808842532007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_75
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1259
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e1dff08f109f450800000000000000
+      internalID: 6122927333318663766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_76
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1259
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87885bac80a951940800000000000000
+      internalID: 5266284701830973560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_77
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1259
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa26761903f81700800000000000000
+      internalID: 511425778063649452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_78
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1259
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9922c4c2755c8220800000000000000
+      internalID: 2489458645444733342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_79
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1261
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667c571f9fbcbc7b0800000000000000
+      internalID: -5202840670138153114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_80
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1261
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bddca7f00cca7cf0800000000000000
+      internalID: -253666124465644107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_81
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1261
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9aac5e376c16270800000000000000
+      internalID: 8242086994143521262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_82
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1261
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049609d34e9db1670800000000000000
+      internalID: 8510635495155329344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_83
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1291
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664496cc0bb9ab760800000000000000
+      internalID: 7474457715220759654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_84
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1285
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd596aa751a649c0800000000000000
+      internalID: -3943287025823031874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_85
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1285
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96657b8b95fa6cda0800000000000000
+      internalID: -5924855459873335703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_86
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1281
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be87175692ba78a0800000000000000
+      internalID: -6306531969402958160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_87
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1277
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e58d9172ca6bf360800000000000000
+      internalID: 7204469412271588835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_88
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1210
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9764d6824ddabf830800000000000000
+      internalID: 4106066612001261177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_89
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1210
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80db12d8a1859a00800000000000000
+      internalID: 762658273988694154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_90
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1200
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b8208e19be767d0800000000000000
+      internalID: -2925110421058581696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_91
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1200
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1334e520ecf35d20800000000000000
+      internalID: 3266232194412327710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_92
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1200
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe9fb077be1ca350800000000000000
+      internalID: 6029227774361706239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_93
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1194
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a763ebe005f393c0800000000000000
+      internalID: -4353867030430783581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_94
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1194
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb6fc78f43c70670800000000000000
+      internalID: 8504981167660821477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_95
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1194
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bc6217a64677140800000000000000
+      internalID: 4717349543021562687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_96
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1194
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618b2d6df513eb5a0800000000000000
+      internalID: -6503706524180629482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_97
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1194
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2401a6e4f72c430800000000000000
+      internalID: 3801741010217747136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_98
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1194
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd1026ea45d9d940800000000000000
+      internalID: 5321518952380112308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_99
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1196
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9597ccfc3539ea640800000000000000
+      internalID: 5093170216780462425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_100
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1196
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9655dcf126b2590800000000000000
+      internalID: -7697951249331295784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_101
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1196
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b77968c44babce0800000000000000
+      internalID: -1388599294321788133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_102
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866fe978536833da0800000000000000
+      internalID: -5966277516869044632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_103
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f558d79af8407fe10800000000000000
+      internalID: 2231257155455780191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_104
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22af33e5d09be2180800000000000000
+      internalID: -9138163126821979614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_105
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1194
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c2f45a537340b90800000000000000
+      internalID: -7276630394377655176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_106
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1194
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3fbec8eaf853540800000000000000
+      internalID: 4987050142234047411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_107
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1194
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f81df43e905f6bc0800000000000000
+      internalID: -3787720121171240717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_108
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8090e4146ce32e0b0800000000000000
+      internalID: -5700925157077546744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_109
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f698af1ce12dba80800000000000000
+      internalID: -8449560027850041615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_110
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7db79ed49d55850800000000000000
+      internalID: 6365232577010980821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_111
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1196
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2defddb1b0e6009e0800000000000000
+      internalID: -1657203668881113390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_112
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1196
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7e177060a7c87b0800000000000000
+      internalID: -5220663701715949642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_113
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1196
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428d6e90e4d625ed0800000000000000
+      internalID: -2426757067258275804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_114
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1139
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b519af88e568d6f60800000000000000
+      internalID: 8029221451254632795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_115
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1139
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d96205a0ed9b3c10800000000000000
+      internalID: 2034393244854544854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_116
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1139
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e68788e6973db10800000000000000
+      internalID: 2005079774752960013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_117
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1129
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b60c19102a23100800000000000000
+      internalID: 86309470497434459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_118
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1129
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b539e7026071f640800000000000000
+      internalID: 5111990618384053684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_119
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1129
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb39738bfad6e6090800000000000000
+      internalID: -8039367683332402241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_120
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1155
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373a1544d81b51b80800000000000000
+      internalID: -8424632307631938701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_121
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1165
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848182f5d42dfbbb0800000000000000
+      internalID: -4917981038314514360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_122
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1131
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2aeb8e98973d4f0800000000000000
+      internalID: -805166275146898767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_123
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1129
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dd1046c2c85a500800000000000000
+      internalID: 406885463631191380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_124
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1159
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8124ee5e37462c0800000000000000
+      internalID: -4439295901298452238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_125
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1137
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e61b01744395e90800000000000000
+      internalID: -7036535462962303441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_126
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1131
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b1576b1ba977730800000000000000
+      internalID: 3996833282375621482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_127
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1161
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdf5410f1e367980800000000000000
+      internalID: -8541571340375294523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_128
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1143
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd76aab8e88bd740800000000000000
+      internalID: 5177882729737780693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_129
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1143
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b343c166573d9cd40800000000000000
+      internalID: 5605243712417051707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_130
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1143
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46429fdda760d8b0800000000000000
+      internalID: -5129485979097086388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_131
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1143
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2948564718490d60800000000000000
+      internalID: 7856890289726179627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_132
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1094
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc736ce5fc405380800000000000000
+      internalID: -8984596637487498047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1074
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475ff68a019919270800000000000000
+      internalID: 8255547888771265908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_134
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1019
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2b3a836a8a4a110800000000000000
+      internalID: 1271326426693612197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_135
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1024
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc27a7ed0bb425230800000000000000
+      internalID: 3626043873005564620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_136
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1019
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab76f8b3d584c260800000000000000
+      internalID: 7116960455539981225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_137
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1019
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6701eac3d5b1430800000000000000
+      internalID: 3754697229543175845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_138
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1021
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc51038d79ecb0420800000000000000
+      internalID: 2597396761671636429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_139
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1021
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd48c1c595242930800000000000000
+      internalID: 4117457284454960627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_140
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1019
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1217ddf14ad49a30800000000000000
+      internalID: 4221238727719457309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_141
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1019
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f700c86c5fd46c0800000000000000
+      internalID: -4157396647891927179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_142
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1019
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8575448c3c1d5e320800000000000000
+      internalID: 2586704199802967896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_143
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1019
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f82b7dd63016b260800000000000000
+      internalID: 7112890489308391667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_144
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1027
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee37383db9a91230800000000000000
+      internalID: 3610103206471220974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 999
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c573ecc6d557ecd0800000000000000
+      internalID: -2528958284696422971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_146
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 868
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c21504f32330a00800000000000000
+      internalID: 721475612552801305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_147
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 878
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d61fd400aa3bfdf0800000000000000
+      internalID: -145458104008501547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_148
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 900
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a3f832c30aca7f0800000000000000
+      internalID: -599928470192047512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_149
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 909
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b40b457de78e4e10800000000000000
+      internalID: 2183832323266118839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_150
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 932
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fd396d70bf1b390800000000000000
+      internalID: -7804180668173000926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_151
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 978
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee3c396ec6cd0e90800000000000000
+      internalID: -7057766451188580634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_152
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 969
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519be9232ad1c5b10800000000000000
+      internalID: 1971483319352604949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_153
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 884
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7194bfcca646d3820800000000000000
+      internalID: 2899584144964798743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_154
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 876
+        width: 102
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc390f13ccc7575a0800000000000000
+      internalID: -6524171268723272753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7f7cf3af7cbb140800000000000000
+      internalID: 4736599310736029628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_156
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 850
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90ed3db03027c0c0800000000000000
+      internalID: -4555637104356499297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_157
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 822
+        width: 314
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 0, z: 6, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d741d722645919b0800000000000000
+      internalID: -5108959521723562024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_158
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 814
+        width: 353
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3963c2bf8a62cf680800000000000000
+      internalID: -8720052271285782893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_159
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 816
+        width: 327
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78716d141f5734b00800000000000000
+      internalID: 811622036908939143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 796
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a8ffb324ac29a50800000000000000
+      internalID: 6526501195836525195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_161
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 796
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3652a4e09badc2290800000000000000
+      internalID: -7913709956853258909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_162
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 768
+        width: 314
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e419b71ac656ee150800000000000000
+      internalID: 5903767678769402190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_163
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 760
+        width: 348
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f659e6f9e1421f0800000000000000
+      internalID: -1070697141303414923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_164
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 762
+        width: 328
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0778d4de4adb400800000000000000
+      internalID: 341610485864952059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 742
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b26f7d0fe2c7bae0800000000000000
+      internalID: -1533542816116940110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_166
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 742
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f98e1b97b84d3110800000000000000
+      internalID: 1242229025642809846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_167
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 679
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db18a5eedcb4c7490800000000000000
+      internalID: -7747233911144808003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_168
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 678
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abe47d57f38b33e0800000000000000
+      internalID: -2072918105025877079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_169
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 726
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37c70a4a63cc1740800000000000000
+      internalID: 5124185337316755258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_170
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 676
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed04f194fe0880620800000000000000
+      internalID: 2740582138467270878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_171
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 682
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae08da945bb4fcbd0800000000000000
+      internalID: -2607782417226956566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_172
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 681
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d7fb1c6c28d28e0800000000000000
+      internalID: -1716572092792603375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_173
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 680
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5b06518143b0fe0800000000000000
+      internalID: -1221825595858438666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_174
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 677
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66195a0caaf4fa00800000000000000
+      internalID: 789531451511608943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 84
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a796e0a64474e200800000000000000
+      internalID: 208419329461884833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_176
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 627
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ff276c54a41da40800000000000000
+      internalID: 5391171892481818380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_177
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 622
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db03ccf522f5193f0800000000000000
+      internalID: -895830249629273923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_178
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 622
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e71a51b864972660800000000000000
+      internalID: 7361015293333346279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_179
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 629
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a717cdb70ee8f910800000000000000
+      internalID: 1871507362188564387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_180
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 629
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381c267c85bf41380800000000000000
+      internalID: -9001293396485947005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e00cd6e4a90d980800000000000000
+      internalID: -8516137233718178234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_182
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 345
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc47e736786abd80800000000000000
+      internalID: -8234154111740195642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_183
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 376
+        width: 223
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c13090c89412d8b0800000000000000
+      internalID: -5129014379323313725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_184
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 537
+        width: 10
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a654185dfd27adce0800000000000000
+      internalID: -1379664030150343318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_185
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 537
+        width: 10
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c045604fbeb6ed0800000000000000
+      internalID: -2419580941470790652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_186
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 593
+        width: 200
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc347f7299dfce30800000000000000
+      internalID: 4526075373757414578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b02bfc8e15bdf80800000000000000
+      internalID: -8080775046027408517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_188
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 324
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ce0cf6355904210800000000000000
+      internalID: 1315215276781923334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_189
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 242
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1e583336230cc60800000000000000
+      internalID: 7836318753272226229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_190
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 232
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e7f8c4e2a282a90800000000000000
+      internalID: -7338569214458888594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_191
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 209
+        width: 110
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0291a84e4e68e1370800000000000000
+      internalID: 8295215881307953440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_192
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 232
+        width: 1209
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bfb74ed45fcd6b0800000000000000
+      internalID: -5270067749035705564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9372fea096af683b0800000000000000
+      internalID: -5510441764979267783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_194
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 189
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829206bf289b64750800000000000000
+      internalID: 6288917901883746600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_195
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 189
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd851d056e21154e0800000000000000
+      internalID: -1994792379540743969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_196
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 173
+        width: 699
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543e345ab1dd58100800000000000000
+      internalID: 109736876746990405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_197
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 145
+        width: 718
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd7bbfabda294180800000000000000
+      internalID: -9130719646482465355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_198
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 124
+        width: 709
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aec56c0aca366ba0800000000000000
+      internalID: -6096120406133584223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_199
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe3cde52f7786a80800000000000000
+      internalID: -8473390816040304911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_200
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 103
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72442b00ce76c03e0800000000000000
+      internalID: -2086178264057756633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_201
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 61
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbec6a9b51f941070800000000000000
+      internalID: 8076254947439988413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_202
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 68
+        width: 79
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e610b3cb5c899bc00800000000000000
+      internalID: 916931974180569454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_203
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 80
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4860c3983388f5d70800000000000000
+      internalID: 9034089132455626372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_204
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 80
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b662e00a8ec8810800000000000000
+      internalID: 1769044527779572496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_205
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 72
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216de6e50b98b7f70800000000000000
+      internalID: 9186087255543830034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_206
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 74
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253af8c072bb39ba0800000000000000
+      internalID: -6083312895258549422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_207
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 37
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cd3c52dffab7040800000000000000
+      internalID: 4646500942357978267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_208
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c9474b0ff8e28b0800000000000000
+      internalID: -5175040657819657071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - UI (1)_209
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 37
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723917b2381b5bb70800000000000000
+      internalID: 8914226214377460519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

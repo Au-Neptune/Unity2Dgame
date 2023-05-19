@@ -23,6 +23,7 @@ public class StartScene : MonoBehaviour
     {
         //讀取manifest 知道有哪些records
         string FileToRead = Application.dataPath + "/Records/manifest.txt";
+        string directoryPath = Application.dataPath + "/Records";
 
         // 檢查目錄是否存在，如果不存在則建立目錄
         if (!Directory.Exists(directoryPath))
